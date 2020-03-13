@@ -1,0 +1,5 @@
+"bin/neo4j-admin.bat" import --nodes "import/graph_nodes_import_header.txt,import/graph_nodes_import.txt"  --nodes "import/index_nodes_header.txt,import/index_nodes.txt" --relationships "import/graph_rels_import.txt,import/index_rels.txt" --database icd-11-cn.db --mode=csv
+
+"bin/neo4j-admin.bat" import --nodes "import/graph_nodes_import_header.txt,import/graph_nodes_import.txt"  --nodes "import/index_nodes_header.txt,import/index_nodes.txt" --relationships "import/graph_rels_import.txt,import/index_rels.txt" --relationships "import/graph_pcs_rels.txt" --database icd-11-cn.db --mode=csv
+
+"bin/neo4j-admin.bat" import --nodes "import/graph_nodes_import_header.txt,import/graph_nodes_import.txt"  --nodes "import/index_nodes_header.txt,import/index_nodes.txt" --nodes "import/graph_items_nodes.txt" --relationships "import/graph_rels_import.txt,import/index_rels.txt" --relationships "import/graph_pcs_rels.txt" --relationships "import/graph_items_rels.txt" --database icd-11-cn.db --mode=csv

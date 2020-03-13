@@ -1,0 +1,1 @@
+:ID,code,name,:LABEL,f_uri,l_uri,classkind,depthinkind:int,isresidual,primarylocation,chapterno,isleaf,anypostcoordination,chinese_name,foundation_uri,description,codingnotes

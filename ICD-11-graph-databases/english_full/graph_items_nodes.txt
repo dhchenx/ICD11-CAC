@@ -1,0 +1,3428 @@
+:ID,title,codes,:LABEL
+en1,"Infections of the foetus or newborn","KA60-KA6Z",Item
+en2,"Human prion diseases","8E00-8E0Z",Item
+en3,"Intestinal fungal infections","",Item
+en4,"Bacterial foodborne intoxications","1A10-1A1Z",Item
+en5,"cholera syndrome","",Item
+en6,"Pseudomembranous colitis","",Item
+en7,"enteritis necroticans","",Item
+en8,"foodborne Clostridium welchii intoxication","",Item
+en9,"Infection due to Isopora belli","",Item
+en10,"Infection due to Isopora hominis","",Item
+en11,"Sarcosporidiosis","",Item
+en12,"infection due to Entamoeba histolytica","",Item
+en13,"amoebic dysentery","",Item
+en14,"Hepatic amoebiasis","",Item
+en15,"enteritis septic","",Item
+en16,"gastroenteritis septic","",Item
+en17,"Sexually transmissible viral hepatitis","",Item
+en18,"Human immunodeficiency virus disease","1C60-1C62.Z",Item
+en19,"Syphilitic aortic incompetence","",Item
+en20,"Syphilitic pulmonary regurgitation","",Item
+en21,"Syphilitic endocarditis","",Item
+en22,"Syphilitic myocarditis","",Item
+en23,"Syphilitic aortitis","",Item
+en24,"Syphilitic aneurysm of aorta","",Item
+en25,"Syphilitic cerebral arteritis","",Item
+en26,"Female gonococcal pelvic inflammatory disease","",Item
+en27,"Gonococcal peritonitis","",Item
+en28,"Gonococcal arthritis","",Item
+en29,"Gonococcal bursitis","",Item
+en30,"Gonococcal osteomyelitis","",Item
+en31,"Gonococcal synovitis","",Item
+en32,"Gonococcal tenosynovitis","",Item
+en33,"Gonococcal anterior uveitis","",Item
+en34,"Gonococcal conjunctivitis","",Item
+en35,"Durand-Nicolas-Favre disease","",Item
+en36,"Chlamydial cystitis or urethritis","",Item
+en37,"Chlamydial vulvovaginitis","",Item
+en38,"Chlamydial cervicitis","",Item
+en39,"Chlamydial female pelvic inflammatory disease","",Item
+en40,"Ulcus molle","",Item
+en41,"Donovanosis","",Item
+en42,"Condylomata acuminata","",Item
+en43,"Anal condyloma acuminata","",Item
+en44,"Anogenital warts affecting sites other than the anogenital area","",Item
+en45,"Infections due to Mycobacterium tuberculosis and Mycobacterium bovis","",Item
+en46,"Tuberculous leptomeningitis","",Item
+en47,"Tuberculoma of meninges","",Item
+en48,"Tuberculous episcleritis","",Item
+en49,"Tuberculosis of adrenal glands","",Item
+en50,"Tuberculosis of thyroid gland","",Item
+en51,"Tuberculosis of pituitary gland","",Item
+en52,"Tuberculosis of hip","",Item
+en53,"Tuberculosis of knee","",Item
+en54,"Tuberculous mastoiditis","",Item
+en55,"Tuberculosis of vertebral column","",Item
+en56,"Tuberculous necrosis of bone","",Item
+en57,"Tuberculous osteitis","",Item
+en58,"Tuberculous osteomyelitis","",Item
+en59,"Tuberculous synovitis","",Item
+en60,"Tuberculous tenosynovitis","",Item
+en61,"Tuberculous arthritis","",Item
+en62,"Tuberculous adenitis","",Item
+en63,"Tuberculids","EA40-EA5Z",Item
+en64,"Infection due to Mycobacterium leprae","",Item
+en65,"Tuberculosis","1B10-1B1Z",Item
+en66,"Pulmonary infection due to Mycobacterium avium-intracellulare complex","",Item
+en67,"Pulmonary infection due to Mycobacterium kansasii","",Item
+en68,"Pulmonary infection due to Mycobacterium xenopi","",Item
+en69,"Pulmonary infection due to Mycobacterium malmoense","",Item
+en70,"Tuberculosis","1B10-1B1Z",Item
+en71,"Scarlatina NOS","",Item
+en72,"Streptococcal sore throat","",Item
+en73,"Streptococcal meningitis","",Item
+en74,"Staphylococcal meningitis","",Item
+en75,"Sodoku","",Item
+en76,"Epidemic arthritic erythema","",Item
+en77,"Haverhill fever","",Item
+en78,"Streptobacillary rat-bite fever","",Item
+en79,"Infection due to Pseudomonas mallei","",Item
+en80,"deer-fly fever","",Item
+en81,"rabbit fever","",Item
+en82,"infection due to Francisella tularensis","",Item
+en83,"Malta fever","",Item
+en84,"Mediterranean fever","",Item
+en85,"undulant fever","",Item
+en86,"Cat-scratch fever","",Item
+en87,"Rochalimaea henselae infection","",Item
+en88,"Quintan fever","",Item
+en89,"Diphtheritic membranous angina","",Item
+en90,"Diphtheritic laryngotracheitis","",Item
+en91,"Systemic Haemophilus aegyptius infection","",Item
+en92,"listerial foodborne infection","",Item
+en93,"Meningococcal infection","",Item
+en94,"Meningitis due to Neisseria meningitidis","",Item
+en95,"Meningococcal haemorrhagic adrenalitis","",Item
+en96,"Chancre of yaws","",Item
+en97,"Primary framboesia","",Item
+en98,"Yaws without clinical manifestations, with positive serology","",Item
+en99,"Primary chancre of pinta","",Item
+en100,"Pintids","",Item
+en101,"Hypomelanosis due to late pinta","",Item
+en102,"Cicatrical cutaneous late pinta","",Item
+en103,"Bejel","",Item
+en104,"Endemic syphilis","",Item
+en105,"Njovera","",Item
+en106,"Erythema migrans","",Item
+en107,"Fusospirochaetal gangrene","",Item
+en108,"Relapsing fever due to any Borrelia species other than Borrelia recurrentis","",Item
+en109,"Relapsing fever due to Borrelia recurrentis","",Item
+en110,"Paratrachoma","",Item
+en111,"Psittacosis","",Item
+en112,"Ornithosis","",Item
+en113,"Parrot fever","",Item
+en114,"Trachoma dubium","",Item
+en115,"Rickettsiosis due to Ehrlichia sennetsu","1C30-1C3Z",Item
+en116,"Brill-Zinsser disease","",Item
+en117,"Tsutsugamushi fever","",Item
+en118,"Rocky Mountain spotted fever","",Item
+en119,"Sao Paulo fever","",Item
+en120,"Boutonneuse fever","",Item
+en121,"Mediterranean tick fever","",Item
+en122,"African tick typhus","",Item
+en123,"Kenya tick typhus","",Item
+en124,"North Asian tick fever","",Item
+en125,"Siberian tick typhus","",Item
+en126,"Queensland tick typhus","",Item
+en127,"Kew Gardens spotted fever","",Item
+en128,"Nine Mile fever","",Item
+en129,"Infection due to Coxiella burnetii","",Item
+en130,"Quadrilateral fever","",Item
+en131,"chlamydial infection NOS","1C20-1C2Z",Item
+en132,"rickettsial infection NOS","1C30-1C3Z",Item
+en133,"spirochaetal infection NOS","1C10-1C4Z",Item
+en134,"Mycetoma due to filamentous bacteria","",Item
+en135,"Australian encephalitis","",Item
+en136,"California meningoencephalitis","",Item
+en137,"Encephalitis due to Lymphocytic choriomeningitis virus","1D60-1D6Z",Item
+en138,"meningoencephalitis due to Lymphocytic choriomeningitis virus","1D60-1D6Z",Item
+en139,"arachnoiditis bacterial","",Item
+en140,"leptomeningitis bacterial","",Item
+en141,"pachymeningitis bacterial","",Item
+en142,"Myelitis due to human immunodeficiency disease","1C60-1C62.Z",Item
+en143,"Dengue haemorrhagic fever Grade 1","",Item
+en144,"Dengue fever without warning signs","",Item
+en145,"Dengue haemorrhagic fever without warning signs","",Item
+en146,"Dengue","1D20-1D2Z",Item
+en147,"Oropouche fever","",Item
+en148,"pappataci fever","",Item
+en149,"phlebotomus fever","",Item
+en150,"West Nile fever","",Item
+en151,"Epidemic polyarthritis and exanthema","",Item
+en152,"Ross River fever","",Item
+en153,"Nephropathia epidemica","",Item
+en154,"Mumps orchitis","",Item
+en155,"mumps meningitis","",Item
+en156,"Mumps encephalitis","",Item
+en157,"mumps pancreatitis","",Item
+en158,"Glandular fever","",Item
+en159,"Gammaherpesviral mononucleosis","",Item
+en160,"Bornholm disease","",Item
+en161,"Acute adenoviral follicular conjunctivitis","",Item
+en162,"Swimming-pool conjunctivitis","",Item
+en163,"Variola","",Item
+en164,"Postchickenpox encephalitis","",Item
+en165,"Varicella encephalomyelitis","",Item
+en166,"Zoster keratoconjunctivitis","",Item
+en167,"Zoster conjunctivitis","",Item
+en168,"Zoster keratitis","",Item
+en169,"Zoster scleritis","",Item
+en170,"Zoster infection of eyelid","",Item
+en171,"Zoster oticus","",Item
+en172,"Postherpetic neuralgia","",Item
+en173,"Cold sore","",Item
+en174,"Simian B disease","",Item
+en175,"Encephalitis due to Rubella virus","",Item
+en176,"Meningitis due to rubella virus","",Item
+en177,"morbilli","",Item
+en178,"Postmeasles meningitis","",Item
+en179,"Slapped cheek syndrome","",Item
+en180,"Hand, foot and mouth disease","",Item
+en181,"Intestinal fungal infections","",Item
+en182,"aspergilloma","",Item
+en183,"Enterocolitis due to aspergillosis","",Item
+en184,"Hepatic or hepatosplenic aspergillosis","",Item
+en185,"Oesophageal aspergillosis","",Item
+en186,"Aspergillus meningitis","",Item
+en187,"Cerebral abscess due to Aspergillus species","",Item
+en188,"Mycotic cerebral aneurysm due to Aspergillus species","",Item
+en189,"Haemorrhagic cerebral infarction due to Aspergillus species","",Item
+en190,"Fungus ball of the paranasal sinuses due to Aspergillus spp.","",Item
+en191,"Chronic granulomatous Aspergillus rhinosinusitis","",Item
+en192,"Pulmonary Aspergillus nodule","",Item
+en193,"Simple pulmonary aspergilloma","",Item
+en194,"Chronic cavitary pulmonary aspergillosis","",Item
+en195,"CFPA - [chronic fibrosing pulmonary aspergillosis]","",Item
+en196,"CNPA - [chronic necrotising pulmonary aspergillosis]","",Item
+en197,"Subcutaneous mucoromycosis due to Basidiobolus ranarum","",Item
+en198,"moniliasis","",Item
+en199,"candidiasis","",Item
+en200,"Candidosis of penis","",Item
+en201,"Penile thrush","",Item
+en202,"Coccidioidomycosis meningitis","",Item
+en203,"Rhinoentomophthoromycosis","",Item
+en204,"Cerebral cryptococcomata","",Item
+en205,"Infections due to species of Epidermophyton, Microsporum and Trichophyton","",Item
+en206,"Tinea capitis","",Item
+en207,"Scalp ringworm","",Item
+en208,"Onychomycosis due to dermatophyte","",Item
+en209,"Tinea unguium","",Item
+en210,"Ringworm of nails","",Item
+en211,"Moccasin foot","",Item
+en212,"Tinea pedis","",Item
+en213,"Athlete's foot","",Item
+en214,"Ringworm of foot","",Item
+en215,"Dermatophytosis of perianal area","",Item
+en216,"Tinea cruris","",Item
+en217,"Ringworm of groin","",Item
+en218,"Dermatophytosis of groin","",Item
+en219,"Ringworm of perianal area","",Item
+en220,"Tinea of perianal region","",Item
+en221,"Mycetoma due to fungal infection","",Item
+en222,"Lobo disease","",Item
+en223,"Seborrhoeic folliculitis","",Item
+en224,"Trichosporosis nodosa","",Item
+en225,"Trichomycosis nodularis","",Item
+en226,"Keratomycosis nigricans palmaris","",Item
+en227,"Disseminated paracoccidioidomycosis with central nervous system involvement","",Item
+en228,"Disseminated paracoccidioidomycosis without central nervous system involvement","",Item
+en229,"Pneumocystis-associated pulmonary nodule","",Item
+en230,"Pneumocystis colonization","",Item
+en231,"Pneumocystis associated pneumothorax","",Item
+en232,"Pneumocystis associated cysts or pneumatocoele","",Item
+en233,"Clinically diagnosed malaria without parasitological confirmation","",Item
+en234,"Protozoal intestinal infections","1A30-1A3Z",Item
+en235,"Keratoconjunctivitis due to Acanthamoeba","",Item
+en236,"Conjunctivitis due to Acanthamoeba","",Item
+en237,"West African sleeping sickness","",Item
+en238,"Infection due to Trypanosoma brucei gambiense","",Item
+en239,"East African sleeping sickness","",Item
+en240,"Infection due to Trypanosoma brucei rhodesiense","",Item
+en241,"Piroplasmosis","",Item
+en242,"American trypanosomiasis","",Item
+en243,"infection due to Trypanosoma cruzi","",Item
+en244,"Chagas' disease with myocarditis","",Item
+en245,"Kala-azar","",Item
+en246,"Leishmania braziliensis infection","",Item
+en247,"Toxoplasma meningoencephalitis","",Item
+en248,"Pulmonary toxoplasmosis","",Item
+en249,"Toxoplasma oculopathy","",Item
+en250,"Infection due to Anisakis larvae","",Item
+en251,"Guinea worm infestation","",Item
+en252,"Pinworm infection","",Item
+en253,"Threadworm infection","",Item
+en254,"Oxyuriasis","",Item
+en255,"Eye worm disease of Africa","",Item
+en256,"Loa loa infestation","",Item
+en257,"Calabar swelling","",Item
+en258,"Bancroftian filariasis","",Item
+en259,"Wandering swelling","",Item
+en260,"Hook-worm infestation by Ancylostoma","",Item
+en261,"Infection due to Necator americanus","",Item
+en262,"Ocular onchocerciasis","",Item
+en263,"Cutaneous onchocerciasis","",Item
+en264,"Toxocara infestation","",Item
+en265,"Trichocephaliasis","",Item
+en266,"cysticerciasis infection due to larval form of Taenia solium","",Item
+en267,"Hydatidosis","",Item
+en268,"Larval diphyllobothriasis","",Item
+en269,"Spirometrosis","",Item
+en270,"Taenia solium taeniasis","",Item
+en271,"Infection due to adult tapeworm Taenia saginata","",Item
+en272,"Taenia saginata taeniasis","",Item
+en273,"Chinese liver fluke disease","",Item
+en274,"Oriental liver fluke disease","",Item
+en275,"Infection due to Clonorchis sinensis","",Item
+en276,"Lancet fluke infection","",Item
+en277,"Sheep liver fluke disease","",Item
+en278,"lung fluke disease","",Item
+en279,"infection due to paragonimus species","",Item
+en280,"Infestation due to Paragonimus species","",Item
+en281,"snail fever","",Item
+en282,"Asiatic schistosomiasis","",Item
+en283,"infestation by larvae of flies","",Item
+en284,"Wound myiasis","",Item
+en285,"Internal hirudiniasis","1F60-1F9Z",Item
+en286,"Infestation by crab lice","",Item
+en287,"Inherited cancer-predisposing syndromes","",Item
+en288,"glioblastoma NOS","",Item
+en289,"Vestibular schwannoma","",Item
+en290,"Symptoms of blood, blood-forming organs, or the immune system","MA00-MA0Y",Item
+en291,"chronic idiopathic myelofibrosis","",Item
+en292,"Maculopapular cutaneous mastocytosis","",Item
+en293,"5 q- syndrome","",Item
+en294,"Chronic monocytic leukaemia","",Item
+en295,"therapy-related myelodysplastic syndromes","",Item
+en296,"AML M5a","",Item
+en297,"AML M5b","",Item
+en298,"Erythroleukaemia","",Item
+en299,"acute myeloid leukaemia M6 (a)(b)","",Item
+en300,"Acute myeloid leukaemia, M7","",Item
+en301,"Acute megakaryocytic leukaemia","",Item
+en302,"Acute myelofibrosis","",Item
+en303,"Chloroma","",Item
+en304,"Granulocytic sarcoma","",Item
+en305,"Blastic NK-cell lymphoma","",Item
+en306,"follicular lymphoma with or without diffuse areas","",Item
+en307,"Mature T-cell or NK-cell neoplasms","2A90-2B2Z",Item
+en308,"Small cell B-cell lymphoma","",Item
+en309,"Lymphoplasmacytic leukaemia","",Item
+en310,"Leukaemic reticuloendotheliosis","",Item
+en311,"Kahler disease","",Item
+en312,"Myelomatosis","",Item
+en313,"Medullary plasmacytoma","",Item
+en314,"multiple myeloma","",Item
+en315,"Solitary myeloma","",Item
+en316,"IPSID - [Immunoproliferative small intestinal disease]","",Item
+en317,"Franklin disease","",Item
+en318,"primary macroglobulinaemia","",Item
+en319,"Waldenstr?m macroglobulinaemia","",Item
+en320,"Waldenstr?m macroglobulinaemia without mention of remission","",Item
+en321,"Small cell mantle cell lymphoma","",Item
+en322,"Classical mantle cell lymphoma","",Item
+en323,"Blastoid mantle cell lymphoma","",Item
+en324,"Pleomorphic mantle cell lymphoma","",Item
+en325,"Marginal zone-like mantle cell lymphoma","",Item
+en326,"��Burkitt-like�� lymphoma","",Item
+en327,"Enteropathy type intestinal T-cell lymphoma","",Item
+en328,"Intestinal T-cell lymphoma","",Item
+en329,"AILD - [angioimmunoblastic lymphadenopathy with dysproteinaemia]","",Item
+en330,"Folliculotropic mycosis fungoides","",Item
+en331,"Pagetoid reticulosis","",Item
+en332,"Granulomatous slack skin","",Item
+en333,"Primary cutaneous anaplastic large-cell lymphoma","",Item
+en334,"Primary cutaneous CD30+large T-cell lymphoma","",Item
+en335,"Hodgkin disease","",Item
+en336,"Classical Hodgkin lymphoma, type not specified","",Item
+en337,"Malignant Histiocytosis","",Item
+en338,"Histiocytosis X","",Item
+en339,"PTLD - [Post transplant lymphoproliferative disorder]","",Item
+en340,"malignant fibrous histiocytoma of skin","",Item
+en341,"Kupffer cell sarcoma of liver","",Item
+en342,"Neoplasms of haematopoietic or lymphoid tissues","2A20-2B3Z",Item
+en343,"Malignant neoplasm of skin of lip","2C30-2C3Z",Item
+en344,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en345,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en346,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en347,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en348,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en349,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en350,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en351,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en352,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en353,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en354,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en355,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en356,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en357,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en358,"Malignant neoplasm metastasis in digestive system","2D80-2D8Z",Item
+en359,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en360,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en361,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en362,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en363,"carcinoid and other malignant neuroendocrine neoplasms","",Item
+en364,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en365,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en366,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en367,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en368,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en369,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en370,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en371,"Hepatocholangiocarcinoma","",Item
+en372,"Malignant neoplasm of skin of nose","2C30-2C3Z",Item
+en373,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en374,"malignant neoplasm of skin of (external) ear","2C30-2C3Z",Item
+en375,"malignant neoplasm of bone of ear (meatus)","2B50-2B5Z",Item
+en376,"malignant neoplasm of cartilage of ear","2B50-2B5Z",Item
+en377,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en378,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en379,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en380,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en381,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en382,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en383,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en384,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en385,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en386,"Multifocal basal cell carcinoma","",Item
+en387,"Primary cutaneous mucinous carcinoma","",Item
+en388,"Aggressive digital papillary adenocarcinoma","",Item
+en389,"Primary cutaneous adenoid cystic carcinoma","",Item
+en390,"Apocrine carcinoma","",Item
+en391,"Sebaceous carcinoma of skin","",Item
+en392,"Appendageal carcinoma of skin","",Item
+en393,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en394,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en395,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en396,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en397,"malignant neoplasm of connective tissue of breast","",Item
+en398,"Malignant neoplasm of skin of breast","2C30-2C3Z",Item
+en399,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en400,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en401,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en402,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en403,"Malignant neoplasm of female genital organs whose point of origin cannot be classified to any other existing entity","",Item
+en404,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en405,"Malignant dysgerminomatous germ cell tumour of ovary","",Item
+en406,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en407,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en408,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en409,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en410,"Malignant trophoblastic tumour of testis","",Item
+en411,"Teratocarcinoma of testis","",Item
+en412,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en413,"Melanoma of skin of penis","",Item
+en414,"Melanoma of mucocutaneous epithelium of penis","",Item
+en415,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en416,"malignant neoplasm of skin of scrotum","",Item
+en417,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en418,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en419,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en420,"malignant neoplasm of pelviureteric junction","",Item
+en421,"malignant neoplasm of renal calyces","",Item
+en422,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en423,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en424,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en425,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en426,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en427,"Malignant neoplasm of skin of eyelid","2C30-2C3Z",Item
+en428,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en429,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en430,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en431,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en432,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en433,"malignant neoplasm of orbital bone","2B50-2B5Z",Item
+en434,"Malignant neoplasm of eyeball","",Item
+en435,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en436,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en437,"anaplastic carcinoma of thyroid gland","",Item
+en438,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en439,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en440,"Primary site unknown","",Item
+en441,"Malignant mesenchymal neoplasms","2B50-2B5Z",Item
+en442,"Neoplasms of haematopoietic or lymphoid tissues","2A20-2B3Z",Item
+en443,"Malignant neoplasm metastasis in colon","",Item
+en444,"Malignant neoplasm metastasis in rectum","",Item
+en445,"moderate cervical dysplasia","",Item
+en446,"severe cervical dysplasia and carcinoma in-situ","",Item
+en447,"moderate vaginal dysplasia","",Item
+en448,"severe vaginal dysplasia and carcinoma in-situ","",Item
+en449,"Bowen disease of skin of penis","",Item
+en450,"Penile intraepithelial neoplasia of inner preputial epithelium","",Item
+en451,"Penile intraepithelial neoplasia of glans penis","",Item
+en452,"high grade prostatic intraepithelial neoplasia","",Item
+en453,"Frontalis-associated lipoma","",Item
+en454,"Infiltrating lipoma of soft tissue","",Item
+en455,"Intramuscular lipoma of soft tissue","",Item
+en456,"Strawberry naevus","",Item
+en457,"Keratocystic odontogenic tumour","",Item
+en458,"fibromyoma of uterus","",Item
+en459,"Pedunculated leiomyoma","",Item
+en460,"Parasitic leiomyoma","",Item
+en461,"Leiomyoma of corpus uteri","",Item
+en462,"Leiomyoma of cervix uteri","",Item
+en463,"Benign neoplasm of skin of lip","2F20-2F2Z",Item
+en464,"benign neoplasm of submandibular gland","",Item
+en465,"benign neoplasm of sublingual gland","",Item
+en466,"Benign neoplasm of perianal skin","2F20-2F2Z",Item
+en467,"Benign neoplasm of anal margin","2F20-2F2Z",Item
+en468,"Benign neoplasm of anal skin","2F20-2F2Z",Item
+en469,"Islet cell tumour","",Item
+en470,"benign neoplasm of islets of Langerhans","",Item
+en471,"Mole","",Item
+en472,"Pigmented naevus","",Item
+en473,"Benign melanocytic naevus","",Item
+en474,"Melanocytic naevus with mild to moderate dysplasia","",Item
+en475,"Dysplastic naevus, unspecified","",Item
+en476,"Tardive congenital melanocytic naevus","",Item
+en477,"Basal cell papilloma","",Item
+en478,"Seborrheic wart","",Item
+en479,"Histiocytoma","",Item
+en480,"Sclerosing haemangioma","",Item
+en481,"Subepidermal nodular fibrosis","",Item
+en482,"Campbell de Morgan spot","",Item
+en483,"Senile angioma","",Item
+en484,"Lobular capillary haemangioma of skin","",Item
+en485,"Benign neoplasm of skin of breast","2F20-2F2Z",Item
+en486,"Benign neoplasm of skin of female genital organs","",Item
+en487,"Mild vaginal dysplasia and human papilloma virus","",Item
+en488,"Benign neoplasm of skin of male genital organs","",Item
+en489,"Benign neoplasm of skin of eyelid","2F20-2F2Z",Item
+en490,"Benign neoplasm of eyeball","",Item
+en491,"Muscular neoplasm of unknown behaviour","",Item
+en492,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en493,"Diseases of the immune system","4A00-4B4Z",Item
+en494,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en495,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en496,"Human immunodeficiency virus disease","1C60-1C62.Z",Item
+en497,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en498,"Congenital malformations, deformations and chromosomal abnormalities","LA00-LD9Z",Item
+en499,"Neoplasms of haematopoietic or lymphoid tissues","2A20-2B3Z",Item
+en500,"Symptoms, signs or clinical findings of blood, blood-forming organs, or the immune system","MA00-MA3Y",Item
+en501,"Anaemia, unspecified","",Item
+en502,"Congenital nutritional vitamin B12 deficiency due to maternal vitamin B12 deficiency","",Item
+en503,"Haemolytic anaemia due to vitamin E deficiency","",Item
+en504,"anaemia due to 6-phosphogluconate dehydrogenase deficiency","",Item
+en505,"anaemia due to Gluthatione synthetase deficiency","",Item
+en506,"anaemia due to gamma-glutamylcysteine synthetase deficiency","",Item
+en507,"anaemia due to haemolytic nonspherocytic (hereditary), type 1","",Item
+en508,"Common hereditary elliptocytosis","",Item
+en509,"Homozygous hereditary elliptocytosis","",Item
+en510,"Spherocytic elliptocytosis","",Item
+en511,"Hereditary pyropoikilocytosis","",Item
+en512,"Beta thalassaemia minor","",Item
+en513,"Beta thalassaemia intermedia","",Item
+en514,"Dominant beta thalassaemia","",Item
+en515,"Beta thalassaemia major","",Item
+en516,"Hb-SS disease with crisis","",Item
+en517,"Sickle cell Hb-C disease without crisis","",Item
+en518,"Sickle cell thalassaemia without crisis","",Item
+en519,"Blackfan-Diamond anaemia","",Item
+en520,"Medullary hypoplasia","",Item
+en521,"Panmyelophthisis","",Item
+en522,"familial hypoplastic anaemia","",Item
+en523,"Constitutional medullar aplasia","",Item
+en524,"Fanconi anaemia","",Item
+en525,"Acquired medullar aplasia","",Item
+en526,"Sex-linked hypochromic sideroblastic anaemia","",Item
+en527,"X-linked sideroblastic anaemia, pyridoxine-responsive","",Item
+en528,"Autosomal recessive sideroblastic anaemia, pyridoxine-refractory","",Item
+en529,"Toxic methaemoglobinaemia","",Item
+en530,"Congenital non-inherited haemorrhagic condition","",Item
+en531,"Severe haemophilia A","",Item
+en532,"Moderately severe haemophilia A","",Item
+en533,"Mild haemophilia A","",Item
+en534,"Symptomatic form of haemophilia A in female carriers","",Item
+en535,"PTC - [plasma thromboplastin component] deficiency","",Item
+en536,"Severe haemophilia B","",Item
+en537,"Moderately severe haemophilia B","",Item
+en538,"Mild haemophilia B","",Item
+en539,"Symptomatic form of haemophilia B in female carriers","",Item
+en540,"Factor VIII deficiency with vascular defect","",Item
+en541,"Vascular haemophilia","",Item
+en542,"Angiohaemophilia","",Item
+en543,"Von Willebrand disease type 1","",Item
+en544,"Von Willebrand disease type 2","",Item
+en545,"Von Willebrand disease type 3","",Item
+en546,"Acquired von Willebrand disease or syndrome","3B20-3B2Y",Item
+en547,"Prothrombin gene mutation","",Item
+en548,"Factor V defects","",Item
+en549,"antithrombin deficiency","",Item
+en550,"Thrombocytopathy","",Item
+en551,"Hereditary thrombocytosis","",Item
+en552,"Autosomal dominant thrombocytosis","",Item
+en553,"X-linked thrombocytosis","",Item
+en554,"Idiopathic haemorrhagic thrombocythaemia","",Item
+en555,"septic spleen","",Item
+en556,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en557,"Neoplasms","2A00-2F9Z",Item
+en558,"Developmental anomalies","LA00-LD9Z",Item
+en559,"Organ specific autoimmune disorders","",Item
+en560,"Symptoms, signs or clinical findings of blood, blood-forming organs, or the immune system","MA00-MA3Y",Item
+en561,"Congenital dysphagocytosis","",Item
+en562,"Agammaglobulinaemia with immunoglobulin-bearing B-lymphocytes","",Item
+en563,"Kappa light chain deficiency","",Item
+en564,"Histiocytoses of mononuclear phagocytes","",Item
+en565,"Human immunodeficiency virus disease","1C60-1C62.Z",Item
+en566,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en567,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en568,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en569,"Systemic scleroderma","",Item
+en570,"Benign dermal lymphocytic or lymphoplasmacytic infiltrations or proliferations","EE90-EE91",Item
+en571,"Kawasaki syndrome","",Item
+en572,"Henoch-Sch?nlein purpura","",Item
+en573,"Microscopic polyarteritis","",Item
+en574,"Wegener granulomatosis","",Item
+en575,"Necrotising respiratory granulomatosis","",Item
+en576,"Churg-Strauss syndrome","",Item
+en577,"Cryopyrinopathies","",Item
+en578,"Juvenile chronic recurrent multifocal osteomyelitis","",Item
+en579,"Adamantiades-Beh?et disease","",Item
+en580,"Allergy to substances in contact with the skin","EK10-EK1Y",Item
+en581,"Urticaria, angioedema and other urticarial disorders","EB00-EB0Y",Item
+en582,"Drug eruptions","EH60-EH6Z",Item
+en583,"Agranulocytic angina","",Item
+en584,"Neutropenic splenomegaly","",Item
+en585,"Werner-Schultz disease","",Item
+en586,"Adult idiopathic neutropenia","",Item
+en587,"Transitory endocrine or metabolic disorders specific to foetus or newborn","KB60-KB6Z",Item
+en588,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en589,"Symptoms, signs or clinical findings of endocrine, nutritional or metabolic diseases","MA50-MA6Y",Item
+en590,"Neoplasms of the endocrine system","",Item
+en591,"Endocrine tumours","",Item
+en592,"Iodine-deficiency-related nodular goitre","",Item
+en593,"Toxic diffuse goitre","",Item
+en594,"Graves disease","",Item
+en595,"Thyrotoxicosis with toxic uninodular goitre","",Item
+en596,"Thyroid storm","",Item
+en597,"Abscess of thyroid","",Item
+en598,"pyogenic thyroiditis","",Item
+en599,"suppurative thyroiditis","",Item
+en600,"nonsuppurative thyroiditis","",Item
+en601,"de Quervain thyroiditis","",Item
+en602,"giant-cell thyroiditis","",Item
+en603,"granulomatous thyroiditis","",Item
+en604,"Hypersecretion of thyrocalcitonin","",Item
+en605,"C-cell hyperplasia of thyroid","",Item
+en606,"non-insulin-dependent diabetes of the young","",Item
+en607,"prediabetes","",Item
+en608,"Impaired glucose regulation","",Item
+en609,"Drug-induced hypoglycaemia without coma","",Item
+en610,"Hyperplasia of pancreatic endocrine cells with glucagon excess","",Item
+en611,"Overproduction of growth hormone","",Item
+en612,"increased secretion from endocrine pancreas of growth hormone-releasing hormone","5A40-5A4Z",Item
+en613,"Simmonds' disease","",Item
+en614,"pituitary cachexia","",Item
+en615,"fertile eunuch syndrome","",Item
+en616,"pituitary short stature","",Item
+en617,"ADH - [antidiuretic hormone secretion] deficiency","",Item
+en618,"Abnormality of cortisol-binding globulin","",Item
+en619,"Sclerocystic ovary syndrome","",Item
+en620,"Delayed sexual development","",Item
+en621,"Constitutional delay of puberty","",Item
+en622,"Precocious menstruation","",Item
+en623,"Constitutional gigantism","",Item
+en624,"Nutritional or toxic disorders of the nervous system","8D40-8D4Z",Item
+en625,"Malnutrition NOS","",Item
+en626,"Hypovitaminosis A","",Item
+en627,"Nyctalopia","",Item
+en628,"Riboflavin deficiency","",Item
+en629,"Niacin deficiency NOS","",Item
+en630,"cobalamin deficiency","",Item
+en631,"cyanocobalamin deficiency","",Item
+en632,"Keshan disease","",Item
+en633,"Disorders of lipoprotein metabolism or certain specified lipidaemias","5C80-5C8Z",Item
+en634,"sulfite oxidase deficiency","",Item
+en635,"Fish odour syndrome","",Item
+en636,"Diabetes mellitus","5A10-5A2Y",Item
+en637,"liver phosphorylase deficiency","",Item
+en638,"Glycogen storage disease due to LAMP-2 deficiency","",Item
+en639,"Glycogen storage disease due to glycogen debranching enzyme deficiency","",Item
+en640,"Dilated cardiomopathy due to glycogen branching enzyme deficiency","",Item
+en641,"Glycogen storage disease due to muscle glycogen phosphorylase deficiency","",Item
+en642,"Glycogen storage disease due to liver glycogen phosphorylase deficiency","",Item
+en643,"Glycogen storage disease due to GLUT2 deficiency","",Item
+en644,"Glycogen storage disease due to aldolase A deficiency","",Item
+en645,"Glycogen storage disease due to muscle beta-enolase deficiency","",Item
+en646,"Glycogen storage disease due to phosphoglucomutase deficiency","",Item
+en647,"Glycogen storage disease due to glycogenin deficiency","",Item
+en648,"Glycogen storage disease due to phosphoglycerate kinase 1 deficiency","",Item
+en649,"Glycogen storage disease due to lactate dehydrogenase deficiency","",Item
+en650,"Glycogen storage disease due to muscle pyruvate kinase deficiency","",Item
+en651,"muscle carnitine palmityltransferase deficiency","",Item
+en652,"Disorders of glycosaminoglycan metabolism","",Item
+en653,"Hunter syndrome","",Item
+en654,"defects of catalase and peroxidase","",Item
+en655,"Disorders of the parathyroids or parathyroid hormone system","5A50-5A5Z",Item
+en656,"Acid phosphatase deficiency","",Item
+en657,"Familial hypophosphataemia","",Item
+en658,"Hypophosphatasia","",Item
+en659,"Familial hypophosphataemic rickets","",Item
+en660,"sodium [na] excess","",Item
+en661,"sodium [na] overload","",Item
+en662,"sodium [na] deficiency","",Item
+en663,"diabetic acidosis","5A10-5A2Y",Item
+en664,"Potassium [K] excess","",Item
+en665,"Potassium [K] overload","",Item
+en666,"Hyperlipidaemia, group B","",Item
+en667,"Endogenous hyperglyceridaemia","",Item
+en668,"Hyperprebetalipoproteinaemia","",Item
+en669,"Broad- or floating-betalipoproteinaemia","",Item
+en670,"Hyperbetalipoproteinaemia with prebetalipoproteinaemia","",Item
+en671,"Hypercholesterolaemia with endogenous hyperglyceridaemia","",Item
+en672,"Hyperlipidaemia, group C","",Item
+en673,"High-density lipoprotein deficiency","",Item
+en674,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en675,"Postpancreatectomy hyperglycaemia","",Item
+en676,"Postsurgical hypoinsulinaemia","",Item
+en677,"Parathyroprival tetany","",Item
+en678,"Postirradiation hypopituitarism","",Item
+en679,"Sleep-wake disorders","7A00-7B2Z",Item
+en680,"Sexual dysfunctions","HA00-HA0Z",Item
+en681,"Gender incongruence","HA60-HA6Z",Item
+en682,"Functional speech articulation disorder","",Item
+en683,"Diseases of the nervous system","8A00-8E7Z",Item
+en684,"Diseases of the nervous system","8A00-8E7Z",Item
+en685,"developmental dysphasia or aphasia, receptive type","",Item
+en686,"developmental Wernicke aphasia","",Item
+en687,"Diseases of the nervous system","8A00-8E7Z",Item
+en688,"Developmental dysphasia or aphasia, expressive type","",Item
+en689,"Diseases of the nervous system","8A00-8E7Z",Item
+en690,"Diseases of the nervous system","8A00-8E7Z",Item
+en691,"Autistic disorder","",Item
+en692,"Pervasive developmental delay","",Item
+en693,"Schizophrenia or other primary psychotic disorders","6A20-6A2Z",Item
+en694,"Developmental dyslexia","",Item
+en695,"Orofacial motor coordination disorder","",Item
+en696,"Diseases of the musculoskeletal system or connective tissue","FA00-FC0Z",Item
+en697,"Diseases of the nervous system","8A00-8E7Z",Item
+en698,"attention deficit disorder with hyperactivity","",Item
+en699,"attention deficit syndrome with hyperactivity","",Item
+en700,"Disruptive behaviour or dissocial disorders","6C90-6C9Z",Item
+en701,"Substance-induced psychotic disorders","",Item
+en702,"Schizotypal personality disorder","",Item
+en703,"Neurocognitive disorders","6D70-6E0Z",Item
+en704,"Neurodevelopmental disorders","6A00-6A0Z",Item
+en705,"Substance-induced mood disorders","",Item
+en706,"Cycloid personality","",Item
+en707,"Cyclothymic personality","",Item
+en708,"Bipolar or related disorders","6A60-6A6Z",Item
+en709,"seasonal depressive disorder","",Item
+en710,"Bipolar or related disorders","6A60-6A6Z",Item
+en711,"Dysthymia","",Item
+en712,"Substance-induced anxiety disorders","",Item
+en713,"Simple phobia","",Item
+en714,"Acrophobia","",Item
+en715,"Claustrophobia","",Item
+en716,"Anthropophobia","",Item
+en717,"mood [affective] disorders","6A60-6A8Z",Item
+en718,"Substance-induced obsessive-compulsive or related disorders","",Item
+en719,"anankastic neurosis","",Item
+en720,"obsessive-compulsive neurosis","",Item
+en721,"Concern about body appearance","QD30-QD3Z",Item
+en722,"Hypochondriacal neurosis","",Item
+en723,"Nosophobia","",Item
+en724,"Illness anxiety disorder","",Item
+en725,"Compulsive hair plucking","",Item
+en726,"skin picking disorder","",Item
+en727,"Traumatic neurosis","",Item
+en728,"Factitious disorders","6D50-6D5Z",Item
+en729,"postictal amnesia in epilepsy","8A60-8A6Z",Item
+en730,"Functional enuresis","",Item
+en731,"Psychogenic enuresis","",Item
+en732,"Urinary incontinence of nonorganic origin","",Item
+en733,"Concern about body appearance","QD30-QD3Z",Item
+en734,"Dissociative disorders","6B60-6B6Z",Item
+en735,"Gender incongruence","HA60-HA6Z",Item
+en736,"Sexual dysfunctions","HA00-HA0Z",Item
+en737,"Chronic alcoholism","",Item
+en738,"Dipsomania","",Item
+en739,"Delirium tremens (alcohol-induced)","",Item
+en740,"Delirium induced by alcohol withdrawal","",Item
+en741,"alcoholic jealousy","",Item
+en742,"'Bad trips' (cannabinoids)","",Item
+en743,"Delirium induced by opioid withdrawal","",Item
+en744,"'Bad trips' (nicotine)","",Item
+en745,"abuse of antacids","",Item
+en746,"abuse of herbal or folk remedies","",Item
+en747,"abuse of hormones","",Item
+en748,"abuse of vitamins","",Item
+en749,"laxative habit","",Item
+en750,"Compulsive gambling","",Item
+en751,"Substance-induced impulse control disorders","",Item
+en752,"pathological fire-setting","",Item
+en753,"Schizophrenia or other primary psychotic disorders","6A20-6A2Z",Item
+en754,"pathological stealing","",Item
+en755,"Paraphilic disorders","6D30-6D3Z",Item
+en756,"paraphilias","",Item
+en757,"M��nchhausen syndrome","",Item
+en758,"Dementia","6D80-6D8Z",Item
+en759,"Dementia NOS","",Item
+en760,"Neurodevelopmental disorders","6A00-6A0Z",Item
+en761,"Alcohol-induced dementia","",Item
+en762,"Dementia in Huntington chorea","",Item
+en763,"Secondary mental or behavioural syndromes associated with disorders or diseases classified elsewhere","6E60-6E6Z",Item
+en764,"Schizophrenia or other primary psychotic disorders","6A20-6A2Z",Item
+en765,"Mood disorders","6A60-6A8Z",Item
+en766,"Anxiety or fear-related disorders","6B00-6B0Z",Item
+en767,"Mood disorders","6A60-6A8Z",Item
+en768,"Psychological factors affecting physical conditions","",Item
+en769,"Mental or behavioural disorders associated with pregnancy, childbirth and the puerperium","6E20-6E2Z",Item
+en770,"Mood disorders","6A60-6A8Z",Item
+en771,"Disorders with neurocognitive impairment as a major feature","8A20-8A2Z",Item
+en772,"recurrent hypersomnolence","",Item
+en773,"Hypersomnia due to substances including medications","",Item
+en774,"Behaviourally induced hypersomnia","",Item
+en775,"Primary sleep apnea of prematurity","",Item
+en776,"Certain specified central sleep apneas with Cheynes-Stokes respiration","",Item
+en777,"Certain specified central sleep apneas without Cheynes-Stokes respiration","",Item
+en778,"Pickwickian syndrome","",Item
+en779,"Delayed sleep phase syndrome","",Item
+en780,"Irregular sleep-wake pattern","",Item
+en781,"Dream anxiety disorder","",Item
+en782,"Hypnogogic sensory disturbance","",Item
+en783,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en784,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en785,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en786,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en787,"Injuries of the nervous system","",Item
+en788,"Neoplasms of the nervous system","",Item
+en789,"Structural developmental anomalies of the nervous system","LA00-LA0Z",Item
+en790,"Non-viral and unspecified infections of the central nervous system","1D00-1D0Z",Item
+en791,"Symptoms, signs or clinical findings of the nervous system","MB40-MB9Y",Item
+en792,"Paralytic symptoms","MB50-MB5Z",Item
+en793,"Hemiparkinsonism","",Item
+en794,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en795,"Arthropathies","FA00-FA5Z",Item
+en796,"Psychogenic parkinsonism","",Item
+en797,"Huntington chorea","",Item
+en798,"Functional facial spasm","",Item
+en799,"Metabolic disorders","5C50-5D2Z",Item
+en800,"Cerebral palsy","8D20-8D2Z",Item
+en801,"Familial tremor","",Item
+en802,"Hereditary essential tremor","",Item
+en803,"Combined vocal and multiple motor tic disorder","",Item
+en804,"myoclonic epilepsy","8A60-8A6Z",Item
+en805,"Sleep-related movement disorders","7A80-7A8Z",Item
+en806,"Dawson inclusion body encephalitis","",Item
+en807,"Van Bogaert sclerosing leukoencephalopathy","",Item
+en808,"Marchiafava-Bignami syndrome","",Item
+en809,"Epilepsy due to parasitic diseases","",Item
+en810,"Headache, not elsewhere classified","MB40-MB6Y",Item
+en811,"Cerebrovascular disease with mention of hypertension","",Item
+en812,"Deep intracerebral haemorrhage","",Item
+en813,"Cerebral lobe haemorrhage","",Item
+en814,"Superficial intracerebral haemorrhage","",Item
+en815,"ruptured cerebral aneurysm","",Item
+en816,"cryptogenic stroke","",Item
+en817,"complicating: surgical and medical care","NE80-NE8Z",Item
+en818,"complicating: abortion or ectopic or molar pregnancy","JA00-JA0Z",Item
+en819,"Post polio myelitic syndrome","",Item
+en820,"Disorder of 1st cranial nerve","",Item
+en821,"Cranial polyneuritis","",Item
+en822,"Jugular foramen syndrome","",Item
+en823,"Disorders of 9th cranial nerve","",Item
+en824,"intervertebral disc disorders","FA80-FA8Z",Item
+en825,"Acute Inflammatory Demyelinating Polyradiculoneuropathy","",Item
+en826,"current traumatic nerve disorder - see nerve injury by body region","NA00-NF2Z",Item
+en827,"Tardy ulnar nerve palsy","",Item
+en828,"Mononeuritis of lower limb","",Item
+en829,"current traumatic nerve disorder - see nerve injury by body region","NA00-NF2Z",Item
+en830,"Hereditary motor and sensory neuropathy, types I-IV","",Item
+en831,"Metabolic disorders","5C50-5D2Z",Item
+en832,"Secondary myopathies","8C80-8C8Z",Item
+en833,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en834,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en835,"Secondary myopathies","8C80-8C8Z",Item
+en836,"Secondary myopathies","8C80-8C8Z",Item
+en837,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en838,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en839,"Secondary myopathies","8C80-8C8Z",Item
+en840,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en841,"Secondary myopathies","8C80-8C8Z",Item
+en842,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en843,"Secondary myopathies","8C80-8C8Z",Item
+en844,"Fibre-type disproportion","",Item
+en845,"Secondary myopathies","8C80-8C8Z",Item
+en846,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en847,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en848,"Secondary myopathies","8C80-8C8Z",Item
+en849,"Secondary myopathies","8C80-8C8Z",Item
+en850,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en851,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en852,"Secondary myopathies","8C80-8C8Z",Item
+en853,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en854,"Primary disorders of muscles","8C70-8C7Z",Item
+en855,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en856,"Primary disorders of muscles","8C70-8C7Z",Item
+en857,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en858,"Primary disorders of muscles","8C70-8C7Z",Item
+en859,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en860,"Primary disorders of muscles","8C70-8C7Z",Item
+en861,"Spastic tetraplegic cerebral palsy","",Item
+en862,"Athetoid cerebral palsy","",Item
+en863,"Dystonic cerebral palsy","",Item
+en864,"Spastic paraplegia due to L-BOAA","",Item
+en865,"Disorder of parasympathetic nervous system","",Item
+en866,"Paroxysmal autonomic disorders","",Item
+en867,"Amyloid autonomic neuropathy","",Item
+en868,"Reflex sympathetic dystrophy","",Item
+en869,"Causalgia","",Item
+en870,"Benign myalgic encephalomyelitis","",Item
+en871,"chronic fatigue syndrome","",Item
+en872,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en873,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en874,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en875,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en876,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en877,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en878,"Neoplasms of the eye or ocular adnexa","",Item
+en879,"Reasons for contact with the health care system in relation to eyes or vision","",Item
+en880,"Symptoms, signs or clinical findings of the visual system","MC10-MC2Y",Item
+en881,"Structural developmental anomalies of the eye, eyelid or lacrimal apparatus","LA10-LA1Z",Item
+en882,"Congenital malformations of the eyelid","",Item
+en883,"Punctal ectropion","",Item
+en884,"Neoplasms of orbit","",Item
+en885,"Orbital trauma","",Item
+en886,"Proptosis","",Item
+en887,"Exophthalmos","",Item
+en888,"Enophthalmos","",Item
+en889,"Neoplasms of conjunctiva","",Item
+en890,"keratoconjunctivitis","9A70-9A7Z",Item
+en891,"keratoconjunctivitis","9A70-9A7Z",Item
+en892,"Conjunctival concretions","",Item
+en893,"Conjunctival cysts or argyrosis","",Item
+en894,"Conjunctival pigmentations","",Item
+en895,"Conjunctival xerosis, not elsewhere classified","",Item
+en896,"Neoplasms of the cornea","",Item
+en897,"Central corneal ulcer","",Item
+en898,"Ring corneal ulcer","",Item
+en899,"Corneal ulcer with hypopyon","",Item
+en900,"Marginal corneal ulcer","",Item
+en901,"Mooren's corneal ulcer","",Item
+en902,"Perforated corneal ulcer","",Item
+en903,"Pannus, corneal","",Item
+en904,"corneal ghost vessels","",Item
+en905,"Haematocornea","",Item
+en906,"Kayser-Fleischer ring","",Item
+en907,"Krukenberg spindle","",Item
+en908,"Fold in Descemet membrane","",Item
+en909,"Rupture in Descemet's membrane","",Item
+en910,"Arcus senilis","",Item
+en911,"Congenital malformations of the uvea","",Item
+en912,"Neoplasms of the iris","",Item
+en913,"Neoplasms of the ciliary body","",Item
+en914,"Translucency of iris","",Item
+en915,"Iris bomb��","",Item
+en916,"Anterior synechiae, iris","",Item
+en917,"Goniosynechiae","",Item
+en918,"Iridodialysis","",Item
+en919,"Posterior synechiae, iris","",Item
+en920,"Recession of chamber angle","",Item
+en921,"Secondary cataract","",Item
+en922,"Soemmerring ring","",Item
+en923,"Acquired aphakia","",Item
+en924,"Equatorial staphyloma","",Item
+en925,"Scleral ectasia","",Item
+en926,"Disorders of posterior uvea","",Item
+en927,"Neoplasms of choroid","",Item
+en928,"Atrophy of choroid","",Item
+en929,"Sclerosis of choroid","",Item
+en930,"Choroideremia","",Item
+en931,"Gyrate atrophy, choroid","",Item
+en932,"Macula scars of posterior pole","",Item
+en933,"Solar retinopathy","",Item
+en934,"Expulsive choroidal haemorrhage","",Item
+en935,"Posterior uveitis","",Item
+en936,"Neoplasms of retina","",Item
+en937,"Leber congenital amaurosis","",Item
+en938,"Stargardt disease","",Item
+en939,"Vitreoretinal dystrophy","",Item
+en940,"Retrolental fibroplasia","",Item
+en941,"Rhegmatogenous retinal detachment","",Item
+en942,"Cyst of ora serrata","",Item
+en943,"Parasitic cyst of retina","",Item
+en944,"Horseshoe tear of retina without detachment","",Item
+en945,"Round hole of retina without detachment","",Item
+en946,"Hollenhorst plaque","",Item
+en947,"Retinal artery branch occlusion","",Item
+en948,"Proliferative vitreo-retinopathy","",Item
+en949,"Cyst of macula","",Item
+en950,"Kuhnt-Junius degeneration of retina","",Item
+en951,"drusen macular degeneration","",Item
+en952,"Lattice degeneration of retina","",Item
+en953,"Paving stone degeneration of retina","",Item
+en954,"Detachment of retinal pigment epithelium","",Item
+en955,"Vitreous abscess","",Item
+en956,"Panophthalmitis","",Item
+en957,"Glaucomatous optic atrophy","",Item
+en958,"Optic disc swelling that results from increased intracranial pressure","",Item
+en959,"Disorders of optic tracts, geniculate nuclei and optic radiations","",Item
+en960,"ghost cell glaucoma","",Item
+en961,"Glaucoma of newborn","",Item
+en962,"Hydrophthalmos","",Item
+en963,"Diseases of neuromuscular junction or muscle","8C60-8D0Z",Item
+en964,"Esophoria","",Item
+en965,"Exophoria","",Item
+en966,"Brown's sheath syndrome","",Item
+en967,"isolated oculomotor nerve palsy","",Item
+en968,"isolated trochlear nerve palsy","",Item
+en969,"isolated abducent nerve palsy","",Item
+en970,"Secondary myopathies","8C80-8C8Z",Item
+en971,"Saccadic intrusions and oscillations","",Item
+en972,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en973,"Vitreal corneal syndrome","",Item
+en974,"Scotoma of blind spot area","",Item
+en975,"achromatopsia","",Item
+en976,"acquired colour vision deficiency","",Item
+en977,"colour blindness","",Item
+en978,"Asthenopia","",Item
+en979,"Schizophrenia or other primary psychotic disorders","6A20-6A2Z",Item
+en980,"visual impairment categories 1 or 2 in both eyes","",Item
+en981,"Visual impairment category 1","",Item
+en982,"WHO - low vision","",Item
+en983,"Visual impairment category 2.","",Item
+en984,"Legal blindness - USA","",Item
+en985,"visual impairment categories 3, 4, 5 in one eye, with categories 1 or 2 in the other eye","",Item
+en986,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en987,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en988,"Congenital malformations, deformations and chromosomal abnormalities","LA00-LD9Z",Item
+en989,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en990,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en991,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en992,"Neoplasms of the circulatory system","",Item
+en993,"Developmental anomalies of the circulatory system","",Item
+en994,"Infections of the circulatory system","",Item
+en995,"Symptoms, signs or clinical findings of the circulatory system","MC80-MC9Y",Item
+en996,"Cerebrovascular diseases","8B00-8B2Z",Item
+en997,"Functional vascular disorders of the skin","EG00-EG02",Item
+en998,"involving coronary vessels","BA40-BA6Z",Item
+en999,"complicating pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1000,"high blood pressure","",Item
+en1001,"Cerebrovascular diseases","8B00-8B2Z",Item
+en1002,"Chronic kidney disease due to hypertension","",Item
+en1003,"hypertensive nephropathy","",Item
+en1004,"nephrosclerosis","",Item
+en1005,"Glomerular diseases due to hypertension","",Item
+en1006,"Unspecified contracted kidney due to hypertension","",Item
+en1007,"involving vessels of brain","8B00-8B2Z",Item
+en1008,"acute coronary syndrome","",Item
+en1009,"Anginal syndrome","",Item
+en1010,"Ischaemic chest pain","",Item
+en1011,"Angina NOS","",Item
+en1012,"Preinfarction syndrome","",Item
+en1013,"worsening effort angina","",Item
+en1014,"extension of myocardial infarction","",Item
+en1015,"recurrent myocardial infarction","",Item
+en1016,"Occlusion of coronary artery or vein not resulting in myocardial infarction","",Item
+en1017,"Embolism of coronary artery or vein not resulting in myocardial infarction","",Item
+en1018,"Thromboembolism of coronary artery or vein not resulting in myocardial infarction","",Item
+en1019,"healed myocardial infarction","",Item
+en1020,"the listed conditions, when: not specified as current complications following acute myocardial infarction","BA00-BE2Z",Item
+en1021,"Postmyocardial infarction syndrome","",Item
+en1022,"Mitral valve insufficiency due to acute myocardial infarction","",Item
+en1023,"Coronary artery atherosclerosis","",Item
+en1024,"Coronary artery atheroma","",Item
+en1025,"Coronary artery sclerosis","",Item
+en1026,"coronary artery ostial stenosis","",Item
+en1027,"Coronary atherosclerosis without significant ischaemia of native coronary artery","",Item
+en1028,"Coronary atherosclerosis of autologous bypass graft without significant ischaemia","",Item
+en1029,"Coronary atherosclerosis without significant ischaemia of non-autologous bypass graft","",Item
+en1030,"spontaneous coronary artery dissection","",Item
+en1031,"primary pulmonary hypertension","",Item
+en1032,"Idiopathic pulmonary arterial hypertension","",Item
+en1033,"acute pericardial effusion","",Item
+en1034,"Pyopericarditis","",Item
+en1035,"Perimyocarditis","",Item
+en1036,"Concretio cordis","",Item
+en1037,"Pericardial calcification","",Item
+en1038,"Chylopericardium","",Item
+en1039,"Acute rheumatic fever","1B40-1B42",Item
+en1040,"Structural developmental anomalies of the circulatory system","LA80-LA9Z",Item
+en1041,"floppy mitral valve syndrome","",Item
+en1042,"rheumatic aortic incompetence","",Item
+en1043,"rheumatic aortic regurgitation","",Item
+en1044,"eosinophilic myocarditis","",Item
+en1045,"Cardiomyopathy complicating pregnancy","JA00-JB6Z",Item
+en1046,"Congestive cardiomyopathy","",Item
+en1047,"Hypertrophic subaortic stenosis","",Item
+en1048,"Congenital cardiomyopathy","",Item
+en1049,"Takotsubo cardiomyopathy","",Item
+en1050,"Ventricular dilatation","",Item
+en1051,"Left ventricular hyperplasia","",Item
+en1052,"Third-degree block","",Item
+en1053,"Incomplete right bundle branch block","",Item
+en1054,"Idiopathic neonatal atrial flutter","",Item
+en1055,"Congestive heart disease","",Item
+en1056,"Left heart failure","",Item
+en1057,"Cardiac asthma","",Item
+en1058,"Diseases of coronary artery","BA80-BA8Z",Item
+en1059,"peripheral vascular disease NOS","",Item
+en1060,"endarteritis deformans","",Item
+en1061,"senile arteritis","",Item
+en1062,"senile endarteritis","",Item
+en1063,"Frostbite","NE40-NE4Z",Item
+en1064,"Goldblatt kidney","",Item
+en1065,"Raynaud disease","",Item
+en1066,"Aneurysm and dissection of basilar artery (trunk)","",Item
+en1067,"collagen (vascular) diseases","4A40-4A4Z",Item
+en1068,"Chronic arterial occlusive disease","BD40-BD4Z",Item
+en1069,"traumatic rupture of artery - see injury of blood vessel by body region.","NA00-NF2Z",Item
+en1070,"narrowing of basilar, carotid or vertebral arteries, not resulting in cerebral infarction","",Item
+en1071,"Gravitational ulcer","",Item
+en1072,"Varicose ulcer","",Item
+en1073,"Varicocele of scrotum","",Item
+en1074,"Lymph node and lymph vessel infection","",Item
+en1075,"Lymphatic system disease","",Item
+en1076,"human immunodeficiency virus [HIV] disease resulting in generalized lymphadenopathy","1C60-1C62.Z",Item
+en1077,"Malignant neoplasm metastasis in lymph nodes","2D60-2D6Z",Item
+en1078,"human immunodeficiency virus [HIV] disease resulting in generalized lymphadenopathy","1C60-1C62.Z",Item
+en1079,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en1080,"Cardiac insufficiency following cardiac surgery or due to presence of cardiac prosthesis","",Item
+en1081,"Heart failure following cardiac surgery or due to presence of cardiac prosthesis","",Item
+en1082,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1083,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en1084,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en1085,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en1086,"Neoplasms","2A00-2F9Z",Item
+en1087,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en1088,"Structural developmental anomalies of the ear","LA20-LA2Z",Item
+en1089,"Symptoms, signs or clinical findings of ear or mastoid process","MC40-MC6Y",Item
+en1090,"Acquired deformity of auricle","",Item
+en1091,"Suppurative otitis media with myringitis","",Item
+en1092,"Benign chronic suppurative otitis media","",Item
+en1093,"Chronic tubotympanic disease","",Item
+en1094,"Chronic atticoantral disease","",Item
+en1095,"Compression of Eustachian tube","",Item
+en1096,"Stricture of Eustachian tube","",Item
+en1097,"Abscess of mastoid","",Item
+en1098,"Empyema of mastoid","",Item
+en1099,"Caries of mastoid","",Item
+en1100,"Fistula of mastoid","",Item
+en1101,"acute inflammation of petrous bone","",Item
+en1102,"Cholesteatoma tympani","",Item
+en1103,"Perforation of pars flaccida","",Item
+en1104,"Acute tympanitis","",Item
+en1105,"Chronic tympanitis","",Item
+en1106,"Adhesive otitis","",Item
+en1107,"Labyrinthine hydrops","",Item
+en1108,"otospongiosis","",Item
+en1109,"vertigo: epidemic","1C80-1C8Z",Item
+en1110,"Noise-induced hearing loss","",Item
+en1111,"Deaf mutism, not elsewhere classified","AB50-AB5Z",Item
+en1112,"Presbyacusia","",Item
+en1113,"Otitis media","AA80-AB0Z",Item
+en1114,"traumatic otorrhagia - code by type of injury.","NA00-NF2Z",Item
+en1115,"Disorder of 8th cranial nerve","",Item
+en1116,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en1117,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en1118,"Congenital malformations, deformations and chromosomal abnormalities","LA00-LD9Z",Item
+en1119,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en1120,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en1121,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en1122,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1123,"Neoplasms of the respiratory system","",Item
+en1124,"Developmental respiratory diseases","",Item
+en1125,"Symptoms, signs or clinical findings of the respiratory system","MD10-MD6Y",Item
+en1126,"Pulmonary heart disease or diseases of pulmonary circulation","BB00-BB0Z",Item
+en1127,"Sleep-related breathing disorders","7A40-7A4Z",Item
+en1128,"sore throat NOS","CA00-CA0Z",Item
+en1129,"acute sore throat","",Item
+en1130,"Viral infections characterised by skin or mucous membrane lesions","1E70-1F0Z",Item
+en1131,"croup","",Item
+en1132,"Hay fever","",Item
+en1133,"Pollinosis","",Item
+en1134,"Perennial allergic rhinitis","",Item
+en1135,"Ozena","",Item
+en1136,"Chronic sore throat","",Item
+en1137,"Enlargement of tonsils","",Item
+en1138,"Enlargement of adenoids","",Item
+en1139,"Laryngoplegia","",Item
+en1140,"Paralysis of glottis","",Item
+en1141,"Paradoxical vocal fold dysfunction","",Item
+en1142,"laryngospasm","",Item
+en1143,"Peripharyngeal abscess","",Item
+en1144,"Quinsy","",Item
+en1145,"Abscess of tonsil","",Item
+en1146,"Peritonsillar cellulitis","",Item
+en1147,"Emphysematous bleb","",Item
+en1148,"Panacinar emphysema","",Item
+en1149,"Idiosyncratic asthma","",Item
+en1150,"Late onset asthma","",Item
+en1151,"Bronchiolectasis","",Item
+en1152,"mucoviscidosis","",Item
+en1153,"Asymptomatic cystic fibrosis","",Item
+en1154,"Influenza","1E30-1E32",Item
+en1155,"infectious pneumonia","",Item
+en1156,"Pneumonitis","CA70-CA7Z",Item
+en1157,"bronchopneumonia due to bacteria other than S. pneumoniae and H. influenzae","",Item
+en1158,"Bronchopneumonia due to H. influenzae","",Item
+en1159,"Bronchopneumonia due to S. pneumoniae","",Item
+en1160,"Pneumonia due to streptococcus, group B","",Item
+en1161,"bronchopneumonia due to viruses other than influenza viruses","",Item
+en1162,"empyema","",Item
+en1163,"pyopneumothorax","",Item
+en1164,"with tuberculosis","1B10-1B1Z",Item
+en1165,"Black lung","",Item
+en1166,"Anthracosis","",Item
+en1167,"Anthracosilicosis","",Item
+en1168,"Coalworker lung","",Item
+en1169,"with tuberculosis","1B10-1B1Z",Item
+en1170,"Asbestosis","",Item
+en1171,"with tuberculosis","1B10-1B1Z",Item
+en1172,"allergic alveolitis and pneumonitis due to inhaled organic dust and particles of fungal, actinomycetic or other origin","",Item
+en1173,"Alveolitis due to Aspergillus clavatus","",Item
+en1174,"Alveolitis due to Cryptostroma corticale","",Item
+en1175,"Cryptostromosis","",Item
+en1176,"Allergic alveolitis due to fungi, thermophilic actinomycetes and other organisms growing in ventilation [air-conditioning] systems","",Item
+en1177,"Lipid pneumonia","",Item
+en1178,"hydrocarbon pneumonia","",Item
+en1179,"Airway disease due to cotton dust","",Item
+en1180,"Radiation pneumonitis","",Item
+en1181,"Fibrosis of lung following radiation","",Item
+en1182,"Acute pulmonary oedema","",Item
+en1183,"Chronic pulmonary oedema","",Item
+en1184,"Idiopathic eosinophilic pneumonia","",Item
+en1185,"Idiopathic acute eosinophilic pneumonia","",Item
+en1186,"Idiopathic chronic eosinophilic pneumonia","",Item
+en1187,"Idiopathic interstitial pneumonia","",Item
+en1188,"Desquamative interstitial pneumonia","",Item
+en1189,"Surfactant protein B (SP-B) deficiency","",Item
+en1190,"Surfactant protein C gene mutation","",Item
+en1191,"Paralysis of diaphragm","",Item
+en1192,"Relaxation of diaphragm","",Item
+en1193,"diaphragmitis","",Item
+en1194,"Chyliform effusion","",Item
+en1195,"Haemopneumothorax","",Item
+en1196,"Pleurisy with effusion","",Item
+en1197,"Atelectasis","",Item
+en1198,"Mediastinal emphysema","",Item
+en1199,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en1200,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en1201,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en1202,"Neoplasms","2A00-2F9Z",Item
+en1203,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en1204,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1205,"Mental, behavioural or neurodevelopmental disorders","6A00-6E8Z",Item
+en1206,"Digestive system disorders of foetus or newborn","KB80-KB8Z",Item
+en1207,"Symptoms, signs or clinical findings of the digestive system or abdomen","MD80-ME4Y",Item
+en1208,"Structural developmental anomalies of the digestive tract","LB10-LB1Z",Item
+en1209,"Leukoplakia of gingiva","",Item
+en1210,"Denture granuloma","",Item
+en1211,"Submucous fibrosis of tongue","",Item
+en1212,"Benign migratory glossitis","",Item
+en1213,"Glossitis areata exfoliativa","",Item
+en1214,"Erythema migrans of tongue","",Item
+en1215,"Atrophic glossitis","",Item
+en1216,"Central Papillary atrophy of the tongue","",Item
+en1217,"Black hairy tongue","",Item
+en1218,"Coated tongue","",Item
+en1219,"Hypertrophy of foliate papillae","",Item
+en1220,"Lingua villosa nigra","",Item
+en1221,"Calculus of salivary gland or duct","",Item
+en1222,"Stone of salivary gland or duct","",Item
+en1223,"Hypoptyalism","",Item
+en1224,"Ptyalism","",Item
+en1225,"Sialism","",Item
+en1226,"Hygrostomia","",Item
+en1227,"Salivation","",Item
+en1228,"lesions showing histological features both of aneurysmal cyst and of another fibro-osseous lesion","",Item
+en1229,"Sequestrum of jaw bone","",Item
+en1230,"Alveolar osteitis","",Item
+en1231,"Dry socket","",Item
+en1232,"disorder of tooth development","",Item
+en1233,"Dilaceration of tooth","",Item
+en1234,"Turner tooth","",Item
+en1235,"Dental dysplasia","",Item
+en1236,"Florid cemento-osseous dysplasia","",Item
+en1237,"Regional odontodysplasia","",Item
+en1238,"Segmental odontomaxillary dysplasia","",Item
+en1239,"Dentia praecox","",Item
+en1240,"Absence of exfoliation of teeth","",Item
+en1241,"dental impaction","",Item
+en1242,"impacted tooth","",Item
+en1243,"Dental decay","",Item
+en1244,"non-carious cervical lesion","",Item
+en1245,"External resorption of tooth","",Item
+en1246,"Internal resorption of tooth","",Item
+en1247,"Incomplete fracture not involving vital pulp","",Item
+en1248,"Complete nontraumatic fracture not involving vital pulp","",Item
+en1249,"Nontraumatic fracture involving non-vital pulp","",Item
+en1250,"Fracture involving vital pulp","",Item
+en1251,"Vertical root fracture","",Item
+en1252,"Suppurative pulpitis","",Item
+en1253,"Pulpal abscess","",Item
+en1254,"Denticles","",Item
+en1255,"Hyperplastic pulpitis","",Item
+en1256,"Dental abscess with sinus","",Item
+en1257,"Dentoalveolar abscess with sinus","",Item
+en1258,"Dental sinus","",Item
+en1259,"apical or periapical granuloma","",Item
+en1260,"Tooth mobility","",Item
+en1261,"Furcation involvement","",Item
+en1262,"Acute pericoronitis","",Item
+en1263,"Juvenile periodontitis","",Item
+en1264,"Necrotising ulcerative gingivo-periodontitis","",Item
+en1265,"Cancrum oris","",Item
+en1266,"Gangrenous stomatitis","",Item
+en1267,"Stomatonecrosis","",Item
+en1268,"Gingival abscess","",Item
+en1269,"Periodontal abscess","",Item
+en1270,"Gingival fibromatosis","",Item
+en1271,"Asymmetry of jaw","",Item
+en1272,"Disto-occlusion","",Item
+en1273,"Mesio-occlusion","",Item
+en1274,"Midline deviation of dental arch","",Item
+en1275,"Overjet","",Item
+en1276,"Posterior lingual occlusion of mandibular teeth","",Item
+en1277,"Crowding of tooth or teeth","",Item
+en1278,"Displacement of tooth or teeth","",Item
+en1279,"Rotation of tooth or teeth","",Item
+en1280,"Transposition of tooth or teeth","",Item
+en1281,"Impacted or embedded teeth with abnormal position of such teeth or adjacent teeth","",Item
+en1282,"Diastema of teeth","",Item
+en1283,"Abnormal jaw closure","",Item
+en1284,"Teeth-clenching","",Item
+en1285,"Teeth-grinding","",Item
+en1286,"Bruxism","",Item
+en1287,"Bruxomania","",Item
+en1288,"Snapping jaw","",Item
+en1289,"Temporomandibular joint-pain-dysfunction syndrome","",Item
+en1290,"Trismus","",Item
+en1291,"Intermaxillary contracture","",Item
+en1292,"Derangement of temporomandibular joint","",Item
+en1293,"Chronic temporomandibular disorder pain","",Item
+en1294,"Orodynia","",Item
+en1295,"Neoplasms of the oesophagus","",Item
+en1296,"Compression of oesophagus","",Item
+en1297,"Constriction of oesophagus","",Item
+en1298,"Stenosis of oesophagus","",Item
+en1299,"Stricture of oesophagus","",Item
+en1300,"Neoplasms of the oesophagus","",Item
+en1301,"Rupture of oesophagus","",Item
+en1302,"Perforation due to malignant neoplasm","",Item
+en1303,"Cardiospasm","",Item
+en1304,"Dyskinesia of cervical and upper oesophagus","",Item
+en1305,"Diffuse oesophageal spasm","",Item
+en1306,"Spasm of oesophagus","",Item
+en1307,"Reflux oesophagitis","",Item
+en1308,"Peptic oesophagitis","",Item
+en1309,"Abscess of oesophagus","",Item
+en1310,"Allergic oesophagitis","",Item
+en1311,"Neoplasms of the oesophagus","",Item
+en1312,"Oesophageal ulcer due to collagen diseases","",Item
+en1313,"Oesophageal ulcer due to eosinophilic disorder","",Item
+en1314,"Ulcer of oesophagus due to ingestion of chemicals","",Item
+en1315,"Ulcer of oesophagus due to ingestion of drugs and medicaments","",Item
+en1316,"Intramural haematoma of oesophagus","",Item
+en1317,"Mallory-Weiss syndrome","",Item
+en1318,"Mallory-Weiss tear","",Item
+en1319,"Mallory-Weiss lesion","",Item
+en1320,"Neoplasms of the stomach","",Item
+en1321,"Acute distension of stomach","",Item
+en1322,"Gastroduodenitis","",Item
+en1323,"dietetic gastritis","",Item
+en1324,"Gastric atrophy","",Item
+en1325,"Intestinal metaplasia","",Item
+en1326,"Chronic hypertrophic gastritis","",Item
+en1327,"Thermal gastritis","",Item
+en1328,"Gastric abscess","",Item
+en1329,"Phlegmonous gastritis","",Item
+en1330,"Non-neoplastic gastric polyp","",Item
+en1331,"Neoplasms of the duodenum","",Item
+en1332,"Constriction of duodenum","",Item
+en1333,"Stenosis of duodenum","",Item
+en1334,"Stricture of duodenum","",Item
+en1335,"Vascular compression of third duodenum, acquired","",Item
+en1336,"Inflammation of duodenum","",Item
+en1337,"Inflammation of the duodenal mucosa due to alcohol use","",Item
+en1338,"Toxic duodenitis","",Item
+en1339,"Duodenal varices with bleeding","",Item
+en1340,"Mucosal defect of the stomach","",Item
+en1341,"Ulcer scar of the stomach","",Item
+en1342,"Peptic ulcer of stomach","",Item
+en1343,"Intensive care related gastric ulcer","",Item
+en1344,"Thermal gastric ulcer","",Item
+en1345,"Toxic gastric ulcer","",Item
+en1346,"Thermal duodenal ulcer","",Item
+en1347,"Toxic duodenal ulcer","",Item
+en1348,"Diseases of duodenum","DA50-DA5Y",Item
+en1349,"Neoplasms of the small intestine","",Item
+en1350,"Phenotypic diarrhoea","",Item
+en1351,"Occlusion of small intestine","",Item
+en1352,"Stricture of small intestine","",Item
+en1353,"Diverticular disease of small intestine","DC70-DC72.Z",Item
+en1354,"Diverticular disease of small intestine","DC70-DC72.Z",Item
+en1355,"Fistula of intestine, site unspecified","",Item
+en1356,"Noninfectious small intestinal inflammation, erosion, ulcer and ulcer scar","",Item
+en1357,"Simple ulcer of small intestine","",Item
+en1358,"Allergic eosinophilic enteritis","",Item
+en1359,"Enteritis and ulcer of small intestine due to endoscopic procedures","",Item
+en1360,"Gluten-sensitive enteropathy","",Item
+en1361,"Nontropical sprue","",Item
+en1362,"Idiopathic steatorrhoea","",Item
+en1363,"Tropical steatorrhoea","",Item
+en1364,"Ischaemic vascular disorders of intestine","DD30-DD3Z",Item
+en1365,"Portal hypertensive enteropathy","",Item
+en1366,"Solitary juvenile polyp of small intestine","",Item
+en1367,"Solitary Peutz-Jegher polyp of small intestine","",Item
+en1368,"Neoplasms of the appendix","",Item
+en1369,"Acute appendicitis with free perforation to the abdominal cavity","",Item
+en1370,"acute appendicitis with diffuse peritonitis following rupture or perforation","",Item
+en1371,"Acute appendicitis with contained perforation to a localised abscess","",Item
+en1372,"Neoplasms of the appendix","",Item
+en1373,"Faecalith of appendix","",Item
+en1374,"Stercolith of appendix","",Item
+en1375,"Neoplasms of the large intestine","",Item
+en1376,"Diverticular disease of large intestine","DC80-DC82.Z",Item
+en1377,"Impaction of large bowel","",Item
+en1378,"Diverticular disease of large intestine","DC80-DC82.Z",Item
+en1379,"Prolapse of rectal mucosa","",Item
+en1380,"Mucosal prolapse syndrome","",Item
+en1381,"Erosion of large intestine","",Item
+en1382,"Inflammatory bowel diseases","DD70-DD7Z",Item
+en1383,"Gastroenteritis or colitis of infectious origin","1A00-1A40.Z",Item
+en1384,"Ulcer in Behcet disease","",Item
+en1385,"Simple ulcer of colon","",Item
+en1386,"Eosinophilic colitis","",Item
+en1387,"Gastroenteritis or colitis of infectious origin","1A00-1A40.Z",Item
+en1388,"Radiation induced colonic ulcer","",Item
+en1389,"Drug-induced proctitis","",Item
+en1390,"Drug-induced colonic ulcer","",Item
+en1391,"Ischaemic vascular disorders of intestine","DD30-DD3Z",Item
+en1392,"Dieulafoy vascular malformation of large intestine","",Item
+en1393,"Portal hypertensive colonopathy","",Item
+en1394,"Vascular ectasia of large intestine","",Item
+en1395,"Hyperplastic nodule of large intestine","",Item
+en1396,"Serrated polyp of large intestine","",Item
+en1397,"Focal lymphoid hyperplasia","",Item
+en1398,"Solitary juvenile polyp of large intestine","",Item
+en1399,"Solitary Peutz-Jegher polyp of large intestine","",Item
+en1400,"Abscess of ischiorectal fossa","",Item
+en1401,"Neoplasms of the anal canal","",Item
+en1402,"Ulcer of anus and rectum","",Item
+en1403,"Solitary ulcer of anus","",Item
+en1404,"Stercoral ulcer of anus","",Item
+en1405,"Prolapse of anal canal","",Item
+en1406,"varicose veins of anus and rectum","",Item
+en1407,"piles","",Item
+en1408,"Haemorrhoids (bleeding) without prolapse outside of anal canal","",Item
+en1409,"Grade/stage I haemorrhoids","",Item
+en1410,"Haemorrhoids (bleeding) that prolapse with straining, but retract spontaneously","",Item
+en1411,"Grade/stage II haemorrhoids","",Item
+en1412,"Haemorrhoids (bleeding) that prolapse with straining, and require manual reduction back inside the anal canal","",Item
+en1413,"Grade/stage III haemorrhoids","",Item
+en1414,"Haemorrhoids (bleeding) with prolapsed tissue that cannot be manually reduced","",Item
+en1415,"Grade/stage IV haemorrhoids","",Item
+en1416,"perianal thrombosis","",Item
+en1417,"Perianal haematoma (nontraumatic)","",Item
+en1418,"skin tags of anus or rectum","",Item
+en1419,"Skin tags of anus","",Item
+en1420,"abscess of anal and rectal regions with or without fistula","",Item
+en1421,"cellulitis of anal and rectal regions with or without fistula","",Item
+en1422,"Perianal abscess","",Item
+en1423,"Neoplasms of the liver","",Item
+en1424,"Viral hepatitis","1E50-1E5Z",Item
+en1425,"Infections due to Hepatitis virus","",Item
+en1426,"Dengue","1D20-1D2Z",Item
+en1427,"Acute hepatitis with hepatic failure","",Item
+en1428,"Fulminant hepatitis with hepatic failure","",Item
+en1429,"Hepatic failure complicating abortion, ectopic or molar pregnancy","JA00-JA0Z",Item
+en1430,"Hepatic failure complicating pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1431,"NAFLD associated with metabolic disorders attributable to over-nutrition","",Item
+en1432,"Hepatic sclerosis","",Item
+en1433,"Hepatic fibrosis with hepatic sclerosis","",Item
+en1434,"Hepatic fibrosis due to Schistosomiasis without portal hypertension","",Item
+en1435,"Secondary biliary cirrhosis","",Item
+en1436,"Biliary cirrhosis, unspecified","",Item
+en1437,"cryptogenic cirrhosis of liver","",Item
+en1438,"macronodular cirrhosis of liver","",Item
+en1439,"micronodular cirrhosis of liver","",Item
+en1440,"mixed type cirrhosis of liver","",Item
+en1441,"portal cirrhosis of liver","",Item
+en1442,"postnecrotic cirrhosis of liver","",Item
+en1443,"Indian childhood cirrhosis","",Item
+en1444,"Tyrolean infantile cirrhosis","",Item
+en1445,"Idiopathic copper toxicosis","",Item
+en1446,"Alcoholic sclerosis of liver","",Item
+en1447,"Cholestasis with hepatocyte injury","",Item
+en1448,"'Pure' cholestasis","",Item
+en1449,"chronic nonsuppurative destructive cholangitis","",Item
+en1450,"Nonspecific reactive hepatitis","",Item
+en1451,"Hepatic angiomatosis","",Item
+en1452,"Phlebitis of portal vein","",Item
+en1453,"Ischaemic hepatitis","",Item
+en1454,"Simple cyst of liver","",Item
+en1455,"Multiple cyst of liver","",Item
+en1456,"Neoplasms of the gallbladder or biliary tract","",Item
+en1457,"occlusion of cystic duct or gallbladder without calculus","",Item
+en1458,"stenosis of cystic duct or gallbladder without calculus","",Item
+en1459,"stricture of cystic duct or gallbladder without calculus","",Item
+en1460,"Occlusion of bile duct without calculus","",Item
+en1461,"Stenosis of bile duct without calculus","",Item
+en1462,"Stricture of bile duct without calculus","",Item
+en1463,"Mucocele of gallbladder","",Item
+en1464,"Cholesterol polyps","",Item
+en1465,"Strawberry gallbladder","",Item
+en1466,"Cholecystolithiasis with calculus","",Item
+en1467,"calculus of gallbladder with chronic cholecystitis and cholangitis","",Item
+en1468,"cholecystolithiasis with chronic cholecystitis","",Item
+en1469,"cholelithiasis with chronic cholecystitis","",Item
+en1470,"impacted gallstone of cystic duct with cholecystitis","",Item
+en1471,"impacted gallstone of gall bladder with cholecystitis","",Item
+en1472,"cholecystolithiasis unspecified or without cholecystitis","",Item
+en1473,"cholelithiasis unspecified or without cholecystitis","",Item
+en1474,"Cholecystolithiasis unspecified or without cholecystitis or cholangitis","",Item
+en1475,"Cholelithiasis unspecified or without cholecystitis or cholangitis","",Item
+en1476,"Choledocholithiais with cholangitis","",Item
+en1477,"Gallstone of common duct with cholangitis","",Item
+en1478,"Gallstone of hepatic duct with cholangitis","",Item
+en1479,"Gallstone with infectious cholangitis","",Item
+en1480,"Choledocholithiasis with cholecystitis","",Item
+en1481,"Gallstone of common duct with cholecystitis","",Item
+en1482,"Gallstone of hepatic duct with cholecystitis","",Item
+en1483,"Choledocholithiasis unspecified or without cholangitis or cholecystitis","",Item
+en1484,"Abscess of gallbladder without calculus","",Item
+en1485,"Angiocholecystitis without calculus","",Item
+en1486,"Empyema of gallbladder without calculus","",Item
+en1487,"Gangrene of gallbladder without calculus","",Item
+en1488,"Acute acalculous cholecystitis","",Item
+en1489,"Chronic acalculous cholecystitis","",Item
+en1490,"Porcelain gallbladder","",Item
+en1491,"Xanthogranulomatous cholecystitis","",Item
+en1492,"Nonfunctioning gallbladder","",Item
+en1493,"Vascular and motility disorders of gallbladder and bile ducts","",Item
+en1494,"Neoplasms of the gallbladder or biliary tract","",Item
+en1495,"Haemobilia","",Item
+en1496,"Spasm of sphincter of Oddi","",Item
+en1497,"Dysfunction of sphincter of Oddi","",Item
+en1498,"Malfunctioning of sphincter of Oddi","",Item
+en1499,"Neoplasms of pancreas","",Item
+en1500,"Gallstone pancreatitis","",Item
+en1501,"Neoplasms of peritoneum or retroperitoneum","",Item
+en1502,"peritonitis with or following diverticular disease of small intestine","DC70-DC72.Z",Item
+en1503,"peritonitis with or following diverticular disease of large intestine","DC80-DC82.Z",Item
+en1504,"Diverticular disease of small intestine","DC70-DC72.Z",Item
+en1505,"Diverticular disease of large intestine","DC80-DC82.Z",Item
+en1506,"Mesenteric peritonitis due to fat necrosis","",Item
+en1507,"Mesenteric peritonitis due to saponification","",Item
+en1508,"subacute ischaemic colitis","",Item
+en1509,"Ischaemic stricture of intestine","",Item
+en1510,"chronic mesenteric ischaemia","",Item
+en1511,"mesenteric arteriosclerosis","",Item
+en1512,"mesenteric artery syndrome","",Item
+en1513,"Fulminant ischaemic colitis","",Item
+en1514,"Chronic ischaemic colitis","",Item
+en1515,"Acute ischaemic colitis","",Item
+en1516,"paraoesophageal hernia","",Item
+en1517,"bubonocele","",Item
+en1518,"scrotal hernia","",Item
+en1519,"Supraumbilical hernia","",Item
+en1520,"Granulomatous enteritis","",Item
+en1521,"Regional enteritis","",Item
+en1522,"Intestinal ulcer and erosion due to Crohn disease","",Item
+en1523,"Cobble-stone appearance of intestine","",Item
+en1524,"left hemicolitis","",Item
+en1525,"Symptoms, signs or clinical findings, not elsewhere classified","MA00-MH2Y",Item
+en1526,"Functional dysphagia","",Item
+en1527,"Indigestion","",Item
+en1528,"Postprandial distress syndrome","",Item
+en1529,"Functional vomiting","",Item
+en1530,"Aerophagia","",Item
+en1531,"Excessive belching, unspecified","",Item
+en1532,"Functional intestinal disorders","",Item
+en1533,"irritable colon","",Item
+en1534,"Dyssynergic defaecation","",Item
+en1535,"Inadequate defaecatory propulsion","",Item
+en1536,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en1537,"Diseases of the epidermis","",Item
+en1538,"Diseases of the dermis","",Item
+en1539,"Diseases of the epidermal appendages (hair, hair follicle, sebaceous glands, apocrine sweat gland apparatus, eccrine sweat gland apparatus and nails)","",Item
+en1540,"Diseases of subcutaneous tissue","",Item
+en1541,"Diseases of cutaneous vasculature","",Item
+en1542,"Malignant neoplasms involving the skin","",Item
+en1543,"Symptom or signs involving the skin","ME60-ME6Y",Item
+en1544,"Certain parasitic infections or infestations affecting the skin","",Item
+en1545,"Infestation of the skin by ectoparasites","",Item
+en1546,"Pox virus infections of the skin","",Item
+en1547,"Human herpes virus infections involving skin or mucous membrane","",Item
+en1548,"Human papillomavirus infection of skin or mucous membrane","1E80-1E8Z",Item
+en1549,"Certain sexually transmissible bacterial infections affecting skin","",Item
+en1550,"Certain zoonotic bacterial infections involving the skin","",Item
+en1551,"Dermatoses due to certain filamentous bacteria","",Item
+en1552,"Pyogenic bacterial infections of the skin or subcutaneous tissues","1B70-1B7Y",Item
+en1553,"Nonorgan specific systemic autoimmune disorders involving the skin","",Item
+en1554,"Autoinflammatory disorders","4A60-4A6Z",Item
+en1555,"Dermatitis due to exogenous factors","EK00-EK0Z",Item
+en1556,"Dermatitis or eczema of external ear","",Item
+en1557,"Atopic dermatitis","",Item
+en1558,"Dandruff","",Item
+en1559,"Pityriasis capitis","",Item
+en1560,"Neurodermatitis","",Item
+en1561,"Dermatitis of hands and feet","",Item
+en1562,"Eczema of hands and feet","",Item
+en1563,"Infective eczematoid dermatitis","",Item
+en1564,"Eczematid","",Item
+en1565,"Palmoplantar pustular psoriasis","",Item
+en1566,"Inverse psoriasis","",Item
+en1567,"Pityriasis lichenoides chronica","",Item
+en1568,"Pityriasis lichenoides et varioliformis acuta","",Item
+en1569,"Febrile ulceronecrotic Mucha-Habermann disease","",Item
+en1570,"Digitate dermatosis","",Item
+en1571,"Chronic superficial dermatitis","",Item
+en1572,"Ordinary urticaria","",Item
+en1573,"Chronic spontaneous urticaria","",Item
+en1574,"Chronic ordinary urticaria","",Item
+en1575,"Chronic autoimmune urticaria","",Item
+en1576,"Chronic urticaria due to underlying infection or infestation","",Item
+en1577,"Chronic urticaria due to pseudoallergy","",Item
+en1578,"Chronic urticaria due to other specified mechanism","",Item
+en1579,"Chronic urticaria of undetermined aetiology","",Item
+en1580,"Factitious urticaria","",Item
+en1581,"Dermatographic urticaria","",Item
+en1582,"Hives","",Item
+en1583,"Nettle rash","",Item
+en1584,"Sweet syndrome","",Item
+en1585,"Dermatitis gangrenosa","",Item
+en1586,"Phagedenic pyoderma","",Item
+en1587,"Genetically-determined epidermolysis bullosa","EC30-EC3Z",Item
+en1588,"Balanitis xerotica obliterans","",Item
+en1589,"Circumscribed scleroderma","",Item
+en1590,"Disorders of essential minerals or their metabolism affecting the skin","",Item
+en1591,"Disorders of vitamins or their metabolism which may affect the skin","",Item
+en1592,"Genetic disorders of amino acid metabolism or transport affecting the skin","",Item
+en1593,"Calcinosis cutis","",Item
+en1594,"Calciphylaxis","",Item
+en1595,"Chromosomal disorders affecting the skin","",Item
+en1596,"DNA instability syndromes affecting the skin","",Item
+en1597,"Genetic disorders of adipose tissue or lipid metabolism affecting the skin","",Item
+en1598,"Genetic disorders of amino acid metabolism or transport affecting the skin","",Item
+en1599,"Sphingolipidoses with skin manifestations","",Item
+en1600,"Congenital anomalies of skin development","LC60-LC60",Item
+en1601,"Developmental hamartomata of the epidermis and epidermal appendages","LC00-LC0Y",Item
+en1602,"Developmental anomalies of skin pigmentation","LC10-LC1Y",Item
+en1603,"Hamartomata derived from dermal connective tissue","LC20-LC2Y",Item
+en1604,"Developmental defects of hair or nails","LC30-LC31",Item
+en1605,"Developmental anomalies of cutaneous vasculature","LC50-LC5Z",Item
+en1606,"Genetic syndromes affecting cutaneous vasculature","",Item
+en1607,"Darier disease","",Item
+en1608,"Hailey-Hailey disease","",Item
+en1609,"Dermatitis artefacta","",Item
+en1610,"Factitious disorders","6D50-6D5Z",Item
+en1611,"Factitious disorders","6D50-6D5Z",Item
+en1612,"Neuropathic ulcer","",Item
+en1613,"Acanthosis nigricans associated with Type II diabetes and obesity","",Item
+en1614,"inherited keratosis palmaris et plantaris","EC50-EC5Y",Item
+en1615,"Developmental anomalies of skin pigmentation","LC10-LC1Y",Item
+en1616,"Common balding","",Item
+en1617,"Cicatricial alopecia","",Item
+en1618,"Tufted folliculitis","",Item
+en1619,"Premature greying of hair","",Item
+en1620,"Circumscribed loss of hair pigment","",Item
+en1621,"Chloracne","",Item
+en1622,"Rhinophyma","",Item
+en1623,"Excessive sweating","",Item
+en1624,"Hyperhidrosis of scalp","",Item
+en1625,"Impaired sweating","",Item
+en1626,"Pachyonychia","",Item
+en1627,"Subungual hyperkeratosis","",Item
+en1628,"Onychogryphosis","",Item
+en1629,"Whitlow","",Item
+en1630,"Fungal infection of the nails","",Item
+en1631,"Genetic disorders affecting dermal collagen, elastin or other matrix proteins","EC40-EC4Y",Item
+en1632,"Senile purpura","",Item
+en1633,"Corticosteroid-induced purpura","",Item
+en1634,"Purpura or bruising due to genetically-determined skin fragility","",Item
+en1635,"Angina bullosa haemorrhagica","",Item
+en1636,"Paroxysmal haematoma of the finger","",Item
+en1637,"Subcutaneous dissecting haematoma","",Item
+en1638,"Jessner lymphocytic infiltration","",Item
+en1639,"Benign cutaneous lymphoid hyperplasia","",Item
+en1640,"Lipomatosis dolorosa","",Item
+en1641,"Malformations involving cutaneous lymphatic vessels","",Item
+en1642,"Oedema of skin or soft tissues","",Item
+en1643,"Genetic syndromes affecting cutaneous vasculature","",Item
+en1644,"Developmental anomalies of cutaneous vasculature","LC50-LC5Z",Item
+en1645,"Purpura due to disorders of platelets","",Item
+en1646,"Pigmented purpura","",Item
+en1647,"Erythromelalgia","",Item
+en1648,"Dermatoses of the eye, eyelids or eyebrows","",Item
+en1649,"Dermatoses of the lips or oral cavity","",Item
+en1650,"Acne necrotica miliaris","",Item
+en1651,"Propionibacterium acnes folliculitis of scalp","",Item
+en1652,"Dermatitis or eczema of external ear","",Item
+en1653,"Otitis externa","AA00-AA3Z",Item
+en1654,"Dermatoses of male genitalia","GA80-GA81.Y",Item
+en1655,"Dermatoses of female genitalia","GA40-GA4Y",Item
+en1656,"Prenatally acquired infections with neonatal skin manifestations","",Item
+en1657,"Skin disorders associated with prematurity","KC30-KC3Y",Item
+en1658,"Iatrogenic injuries involving the skin of the neonate","KC50-KC7Y",Item
+en1659,"Congenital malformations affecting the skin","LC00-LC7Z",Item
+en1660,"Neonatal seborrhoeic dermatitis","",Item
+en1661,"Nappy rash","",Item
+en1662,"Diaper rash","",Item
+en1663,"Drug-induced toxic erythema","",Item
+en1664,"Drug-induced hypersensitivity syndrome","",Item
+en1665,"Drug-induced toxic pustuloderma","",Item
+en1666,"Corticosteroid-induced acne","",Item
+en1667,"Coumarin necrosis","",Item
+en1668,"pressure injury","",Item
+en1669,"pressure ulcer","",Item
+en1670,"bedsore","",Item
+en1671,"pressure injury stage 1 with nonblanchable erythema","",Item
+en1672,"pressure injury stage 2 with partial thickness skin loss","",Item
+en1673,"pressure injury stage 3 with full thickness skin loss","",Item
+en1674,"pressure injury stage 4 with full thickness tissue loss","",Item
+en1675,"Callus","",Item
+en1676,"Clavus","",Item
+en1677,"Skin or soft tissue injury due to exposure to cold","",Item
+en1678,"Burns of external body surface, specified by site","ND90-ND9Z",Item
+en1679,"Burns of external body surface, specified by site","ND90-ND9Z",Item
+en1680,"Cutaneous lupus erythematosus","EB50-EB5Z",Item
+en1681,"Phototoxic reactions to skin contact with photoactive agents","EK20-EK2Z",Item
+en1682,"Sun damage due to chronic sun exposure","",Item
+en1683,"Solar elastosis","",Item
+en1684,"Rhytides","",Item
+en1685,"Nodular actinic elastosis with cysts or comedones","",Item
+en1686,"Colloid milium","",Item
+en1687,"Liver spot","",Item
+en1688,"Irritant hand dermatitis","",Item
+en1689,"Vulval irritant contact dermatitis","",Item
+en1690,"Incontinence-associated dermatitis","",Item
+en1691,"Pollen-food allergy syndrome","",Item
+en1692,"Skin injury due to exposure to corrosive substances","",Item
+en1693,"Insect bite granuloma","",Item
+en1694,"Epidermal inclusion cyst","",Item
+en1695,"Pilar cyst","",Item
+en1696,"Digital ganglion cyst","",Item
+en1697,"Solar keratosis","",Item
+en1698,"'Field change' due to chronic exposure to ultraviolet radiation","",Item
+en1699,"Stretched scar","",Item
+en1700,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en1701,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en1702,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1703,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en1704,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en1705,"Neoplasms of the musculoskeletal system","",Item
+en1706,"Nonorgan specific systemic autoimmune disorders","4A40-4A4Z",Item
+en1707,"Symptoms, signs or clinical findings of the musculoskeletal system","ME80-MF1Y",Item
+en1708,"Structural developmental anomalies of the skeleton","LB70-LB9Z",Item
+en1709,"Acute rheumatic fever","1B40-1B42",Item
+en1710,"Acute rheumatic fever","1B40-1B42",Item
+en1711,"Psoriatic spondylitis","",Item
+en1712,"Gouty bursitis","",Item
+en1713,"Gouty arthropathy","",Item
+en1714,"Gouty cellulitis","",Item
+en1715,"Familial chondrocalcinosis","",Item
+en1716,"Conditions associated with the spine","FA70-FB1Z",Item
+en1717,"congenital deformities and malformations of fingers and toes","LB80-LB8Z",Item
+en1718,"congenital: deformities and malformations of limbs","LB70-LB9Z",Item
+en1719,"congenital: absence of limbs","LB70-LB9Z",Item
+en1720,"Injuries to the knee or lower leg","NC90-NC9Z",Item
+en1721,"Old bucket-handle tear","",Item
+en1722,"current injury - see injury of joint by body region","NA00-NF2Z",Item
+en1723,"Instability secondary to old ligament injury","",Item
+en1724,"hydrarthrosis","",Item
+en1725,"haemarthrosis","",Item
+en1726,"arthropathy in: haematological disorders","3A00-3C0Z",Item
+en1727,"neuropathic spondylopathy","FB00-FB0Z",Item
+en1728,"Diabetic cheiroarthropathy","EE40-EE7Y",Item
+en1729,"Kinematic imbalance due to suboccipital strain","",Item
+en1730,"current injury - see injury of spine by body region","NB50-NB9Z",Item
+en1731,"Stress fracture of vertebra","",Item
+en1732,"Ankylosing spondylitis","",Item
+en1733,"Primary disorders of muscles","8C70-8C7Z",Item
+en1734,"rupture of tendon","NA00-NF2Z",Item
+en1735,"traumatic rupture of muscle - see injury of muscle by body region","NA00-NF2Z",Item
+en1736,"Compartment syndrome, non-traumatic","",Item
+en1737,"Myasthenia gravis or certain specified neuromuscular junction disorders","8C60-8C6Z",Item
+en1738,"Secondary myopathies","8C80-8C8Z",Item
+en1739,"current injury - see injury of muscle by body region","NA00-NF2Z",Item
+en1740,"myopathy in: metabolic diseases","8C80-8C8Z",Item
+en1741,"current injury - see injury of ligament or tendon by body region","NA00-NF2Z",Item
+en1742,"Nodular tendinous disease","",Item
+en1743,"rupture where an abnormal force is applied to normal tissue - see injury of tendon by body region","NA00-NF2Z",Item
+en1744,"Rupture of synovial cyst","",Item
+en1745,"Ganglion of joint or tendon (sheath)","",Item
+en1746,"Dupuytren disease of palm","",Item
+en1747,"Nodular fasciitis","",Item
+en1748,"Frozen shoulder","",Item
+en1749,"Periarthritis of shoulder","",Item
+en1750,"Tennis elbow","",Item
+en1751,"Shoulder-hand syndrome","",Item
+en1752,"Sudeck atrophy","",Item
+en1753,"avascular necrosis of bone","",Item
+en1754,"Osteonecrosis due to chemical burn of oral mucosa","",Item
+en1755,"renal osteodystrophy","GB60-GB6Z",Item
+en1756,"Osteitis deformans","",Item
+en1757,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en1758,"nonunion after spinal fusion","",Item
+en1759,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en1760,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en1761,"Complications of pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1762,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en1763,"Contact with health services for reasons associated with reproduction","QA20-QA4Z",Item
+en1764,"Predominantly sexually transmitted infections","1A60-1A9Z",Item
+en1765,"Symptoms, signs or clinical findings of the genitourinary system","MF30-MG0Y",Item
+en1766,"Certain specified disorders of genital development","",Item
+en1767,"Neoplasms of the female genital organs","",Item
+en1768,"Symptoms, signs or clinical findings involving the female genital system","MF30-MF3Y",Item
+en1769,"Genitourinary Infections and Sexually Transmitted Diseases","",Item
+en1770,"those complicating: pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en1771,"those complicating: abortion or ectopic or molar pregnancy","JA00-JA0Z",Item
+en1772,"Furuncle of vulva","",Item
+en1773,"salpingo-oophoritis","",Item
+en1774,"tubo-ovarian inflammatory disease","",Item
+en1775,"pyosalpinx","",Item
+en1776,"Congenital abnormalities of vulva or perineum","",Item
+en1777,"Congenital abnormalities of vagina","",Item
+en1778,"Congenital abnormalities of cervix uteri","",Item
+en1779,"Congenital abnormalities of uterus, except cervix","",Item
+en1780,"Congenital abnormalities of fallopian tube","",Item
+en1781,"Congenital abnormalities of ovary","",Item
+en1782,"Congenital abnormalities of broad ligament","",Item
+en1783,"Polyp of labia","",Item
+en1784,"Hypertrophy of labia","",Item
+en1785,"Haematocolpos with haematometra or haematosalpinx","",Item
+en1786,"Mucous polyp of cervix","",Item
+en1787,"Decubitus (trophic) ulcer of cervix","",Item
+en1788,"Eversion of cervix","",Item
+en1789,"Adhesions of cervix","",Item
+en1790,"Investigation and management of (suspected) cervical incompetence in a nonpregnant woman","",Item
+en1791,"Retroflexion of uterus","",Item
+en1792,"Retroversion of uterus","",Item
+en1793,"anteversion of uterus","",Item
+en1794,"Haematosalpinx with haematometra","",Item
+en1795,"Cyst of graafian follicle","",Item
+en1796,"Haemorrhagic corpus luteum cyst","",Item
+en1797,"Retention cyst of ovary","",Item
+en1798,"Simple cyst of ovary","",Item
+en1799,"Regular intermenstrual bleeding","",Item
+en1800,"Irregular intermenstrual bleeding","",Item
+en1801,"Menometrorrhagia","",Item
+en1802,"Metrorrhagia","",Item
+en1803,"Symptoms such as flushing, sleeplessness, headache, lack of concentration, associated with menopause","",Item
+en1804,"inability to achieve a pregnancy","",Item
+en1805,"Nonimplantation of ovum","",Item
+en1806,"Hyperstimulation of ovaries associated with induced ovulation","",Item
+en1807,"Relative infertility","",Item
+en1808,"currently pregnant","JA00-JB6Z",Item
+en1809,"with current abortion","JA00-JA0Z",Item
+en1810,"Vestibulodynia","",Item
+en1811,"Dysaesthetic vulvodynia","",Item
+en1812,"PMDD - [premenstrual dysphoric disorder]","",Item
+en1813,"Neoplasms of the male genital organs","",Item
+en1814,"Structural developmental anomalies of the male genital system","LB50-LB5Z",Item
+en1815,"Symptoms, signs or clinical findings involving the male genital system","MF40-MF4Y",Item
+en1816,"Inflammatory dermatoses affecting the penis or scrotum","",Item
+en1817,"Premalignant or malignant disorders of the penis or scrotum","",Item
+en1818,"Penile or scrotal ulceration due to Beh?et disease","",Item
+en1819,"Genital aphthosis in the male","",Item
+en1820,"Adenofibromatous hypertrophy of prostate","",Item
+en1821,"fibroadenoma of prostate","",Item
+en1822,"fibroma of prostate","",Item
+en1823,"myoma of prostate","",Item
+en1824,"Prostatolithiasis","",Item
+en1825,"Bleeding of prostate","",Item
+en1826,"prostatic varicosis","",Item
+en1827,"Low grade prostatic intraepithelial neoplasia","",Item
+en1828,"Low grade dysplasia","",Item
+en1829,"hydrocele of spermatic cord, testis or tunica vaginalis","",Item
+en1830,"Torsion of spermatic cord","",Item
+en1831,"Torsion of appendix testis","",Item
+en1832,"Torsion of appendix epididymidis","",Item
+en1833,"Painful erection","",Item
+en1834,"Peyronie disease","",Item
+en1835,"Plastic induration of penis","",Item
+en1836,"Induratio penis plastica","",Item
+en1837,"Haemorrhage of male genital organs","",Item
+en1838,"Thrombosis of male genital organs","",Item
+en1839,"Neoplasms of the Breast","",Item
+en1840,"cyst of breast","",Item
+en1841,"Cystic breast","",Item
+en1842,"Carbuncle of breast","",Item
+en1843,"Gynaecomastia","",Item
+en1844,"Non-cyclical mastodynia","",Item
+en1845,"Cyclical mastodynia","",Item
+en1846,"Neoplasms of the urinary system","",Item
+en1847,"Clinical findings on examination of urine, without diagnosis","MF90-MF9Y",Item
+en1848,"Structural developmental anomalies of the urinary system","LB30-LB3Z",Item
+en1849,"Symptoms, signs or clinical findings involving the urinary system","MF50-MF5Y",Item
+en1850,"Clinical findings in specimens from the urinary system","MF80-MF8Z",Item
+en1851,"acute nephritis","",Item
+en1852,"acute glomerular disease","",Item
+en1853,"acute glomerulonephritis","",Item
+en1854,"acute nephritic syndrome","",Item
+en1855,"rapidly progressive nephritis","",Item
+en1856,"rapidly progressive glomerulonephritis","",Item
+en1857,"congenital nephrotic syndrome","",Item
+en1858,"lipoid nephrosis","",Item
+en1859,"Acute bacterial pyelonephritis","",Item
+en1860,"Balkan endemic nephropathy","",Item
+en1861,"Calculus of kidney and ureter without hydronephrosis","GB70-GB7Z",Item
+en1862,"Obstructive uropathy with infection","",Item
+en1863,"nontraumatic acute kidney injury","",Item
+en1864,"chronic renal failure","",Item
+en1865,"Chronic renal insufficiency","",Item
+en1866,"Crystalluria","MF90-MF9Y",Item
+en1867,"calculous pyelonephritis","",Item
+en1868,"Renal calculus or stone","",Item
+en1869,"Stone in kidney","",Item
+en1870,"Ureteric stone","",Item
+en1871,"Ureteral calculus or stone","",Item
+en1872,"Stone in the ureter","",Item
+en1873,"Urinary bladder stone","",Item
+en1874,"Calculus in diverticulum of bladder","",Item
+en1875,"Bosniak 1 cyst","",Item
+en1876,"Urolithiasis","GB70-GB7Z",Item
+en1877,"Kinking of the ureter without hydronephrosis","",Item
+en1878,"Urolithiasis","GB70-GB7Z",Item
+en1879,"Urethrotrigonitis","",Item
+en1880,"Acquired bladder neck stenosis","",Item
+en1881,"diverticulitis of bladder","",Item
+en1882,"urethritis in diseases with a predominantly sexual mode of transmission","1A60-1A9Z",Item
+en1883,"Urethrorectal fistula","",Item
+en1884,"Urethrocutaneous fistula","",Item
+en1885,"Urethrovesicovaginal fistula","",Item
+en1886,"prolapse of urethra","",Item
+en1887,"third degree uterine prolapse","",Item
+en1888,"Stage III uterine prolapse","",Item
+en1889,"Stage IV uterine prolapse","",Item
+en1890,"Injury or harm arising from surgical or medical care, not elsewhere classified","NE80-NE8Z",Item
+en1891,"Changes in female genital anatomy","",Item
+en1892,"Changes in male genital anatomy","",Item
+en1893,"Paraphilic disorders","6D30-6D3Z",Item
+en1894,"Predominantly sexually transmitted infections","1A60-1A9Z",Item
+en1895,"Psychogenic anorgasmy","",Item
+en1896,"Psychogenic dyspareunia","",Item
+en1897,"Paraphilic disorders","6D30-6D3Z",Item
+en1898,"Paraphilic disorders","6D30-6D3Z",Item
+en1899,"Paraphilic disorders","6D30-6D3Z",Item
+en1900,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en1901,"Gestational trophoblastic diseases","",Item
+en1902,"Contact with health services for reasons associated with reproduction","QA20-QA4Z",Item
+en1903,"therapeutic abortion","",Item
+en1904,"failure of attempted induction of abortion","",Item
+en1905,"ruptured ectopic pregnancy","",Item
+en1906,"Fallopian pregnancy","",Item
+en1907,"Tubal abortion","",Item
+en1908,"hydatidiform mole","",Item
+en1909,"classical hydatidiform mole","",Item
+en1910,"Early fetal death with retention of dead fetus","",Item
+en1911,"Pathological ovum","",Item
+en1912,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium complicated by pre-eclampsia","",Item
+en1913,"Superimposed pre-eclampsia","",Item
+en1914,"Pregnancy-induced oedema and proteinuria without hypertension","",Item
+en1915,"eclampsia with pregnancy-induced or pre-existing hypertension","",Item
+en1916,"Abortive outcome of pregnancy","JA00-JA0Z",Item
+en1917,"Haemorrhage specified as due to threatened abortion","",Item
+en1918,"haemorrhage after delivery of fetus or infant","",Item
+en1919,"Haemorrhage associated with retained, trapped or adherent placenta","",Item
+en1920,"third-stage postpartum haemorrhage","",Item
+en1921,"Haemorrhage following delivery of placenta","",Item
+en1922,"Haemorrhage associated with retained portions of placenta or membranes","",Item
+en1923,"Maternal care related to the foetus, amniotic cavity or possible delivery problems","JA80-JA8Z",Item
+en1924,"Hyperemesis gravidarum, mild or unspecified, starting before the end of the 22nd week of gestation","",Item
+en1925,"Excessive vomiting starting after 22 completed weeks of gestation","",Item
+en1926,"Perineal varices in pregnancy","",Item
+en1927,"Vaginal varices in pregnancy","",Item
+en1928,"Vulval varices in pregnancy","",Item
+en1929,"Thrombophlebitis of legs in pregnancy","",Item
+en1930,"Cerebrovenous sinus thrombosis in pregnancy","",Item
+en1931,"Malnutrition in childbirth and the puerperium","",Item
+en1932,"habitual aborter with current abortion","JA00-JA0Z",Item
+en1933,"Supine hypotensive syndrome","",Item
+en1934,"Maternal care related to the foetus, amniotic cavity or possible delivery problems","JA80-JA8Z",Item
+en1935,"complications of anaesthesia during: abortion or ectopic or molar pregnancy","JA00-JA0Z",Item
+en1936,"Aspiration pneumonitis due to anaesthesia during pregnancy","",Item
+en1937,"Mendelson syndrome due to anaesthesia during pregnancy","",Item
+en1938,"Pressure collapse of lung due to anaesthesia during pregnancy","",Item
+en1939,"Cerebral anoxia due to anaesthesia during pregnancy","",Item
+en1940,"Fetus compressus","",Item
+en1941,"Failure of head to enter pelvic brim","",Item
+en1942,"Disproportion of fetal origin with normally formed fetus","",Item
+en1943,"Maternal care for scar from previous caesarean section","",Item
+en1944,"Maternal care for scar from prior uterine surgery","",Item
+en1945,"Maternal care for previous surgery to vagina","",Item
+en1946,"Maternal care for septate vagina","",Item
+en1947,"Maternal care for stricture of vagina","",Item
+en1948,"Maternal care for tumour of vagina","",Item
+en1949,"Anti-D [Rh] antibodies","",Item
+en1950,"Maternal care for known or suspected large-for-dates","",Item
+en1951,"Hydramnios","",Item
+en1952,"Amnionitis","",Item
+en1953,"Chorioamnionitis","",Item
+en1954,"Membranitis","",Item
+en1955,"Placentitis","",Item
+en1956,"Circumvallate placenta","",Item
+en1957,"Succenturiate lobe","",Item
+en1958,"Low implantation of placenta specified as without haemorrhage","",Item
+en1959,"Post-term","",Item
+en1960,"Onset (spontaneous) of labour before 37 completed weeks of gestation","",Item
+en1961,"Preterm spontaneous labour with preterm delivery by caesarean section","",Item
+en1962,"Preterm spontaneous labour with term delivery by caesarean section","",Item
+en1963,"Primary hypotonic uterine dysfunction","",Item
+en1964,"Failure of cervical dilatation","",Item
+en1965,"Uterine inertia during latent phase of labour","",Item
+en1966,"Primary inadequate contractions","",Item
+en1967,"Secondary hypotonic uterine dysfunction","",Item
+en1968,"Arrested active phase of labour","",Item
+en1969,"Atony of uterus, during labour","",Item
+en1970,"Desultory labour","",Item
+en1971,"Irregular labour","",Item
+en1972,"Poor contractions","",Item
+en1973,"Deep transverse arrest","",Item
+en1974,"Obstructed labour due to chin presentation","",Item
+en1975,"Prolapsed arm","",Item
+en1976,"Obstructed labour due to maternal care for known or suspected abnormality of pelvic organs","",Item
+en1977,"Impacted shoulders","",Item
+en1978,"fetal distress in labour or delivery due to drug administration","",Item
+en1979,"Haemorrhage from vasa praevia","",Item
+en1980,"Thrombosis of umbilical vessels","",Item
+en1981,"episiotomy extended by laceration","",Item
+en1982,"Rupture of uterus not stated as occurring before onset of labour","",Item
+en1983,"Annular detachment of cervix","",Item
+en1984,"Laceration of vaginal wall without mention of perineal laceration","",Item
+en1985,"Avulsion of inner symphyseal cartilage obstetric","",Item
+en1986,"Damage to coccyx obstetric","",Item
+en1987,"placenta accreta without haemorrhage","",Item
+en1988,"maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during labour and delivery","",Item
+en1989,"Mendelson syndrome due to anaesthesia during labour and delivery","",Item
+en1990,"Pressure collapse of lung due to anaesthesia during labour and delivery","",Item
+en1991,"Cerebral anoxia due to anaesthesia during labour and delivery","",Item
+en1992,"Obstetric shock","",Item
+en1993,"Disorders of newborn related to length of gestation or foetal growth","KA20-KA2Z",Item
+en1994,"delivery in a completely normal case","",Item
+en1995,"Cervicitis following delivery","",Item
+en1996,"Vaginitis following delivery","",Item
+en1997,"Pelvic thrombophlebitis, postpartum","",Item
+en1998,"Anaphylactoid syndrome of pregnancy","",Item
+en1999,"Secondary perineal tear","",Item
+en2000,"Hepatorenal syndrome following labour or delivery","",Item
+en2001,"Failure of lactation","",Item
+en2002,"Primary agalactia","",Item
+en2003,"Insufficient milk supply","",Item
+en2004,"Delayed milk supply","",Item
+en2005,"Oversupply of milk","",Item
+en2006,"Puerperal galactocele","",Item
+en2007,"Death from any direct obstetric cause occurring one year or more after delivery","",Item
+en2008,"Endocrine, nutritional or metabolic diseases","5A00-5D46",Item
+en2009,"Congenital malformations, deformations and chromosomal abnormalities","LA00-LD9Z",Item
+en2010,"Neoplasms","2A00-2F9Z",Item
+en2011,"Injury, poisoning or certain other consequences of external causes","NA00-NF2Z",Item
+en2012,"Tetanus neonatorum","",Item
+en2013,"Congenital gonococcal infection","1A70-1A7Z",Item
+en2014,"Human immunodeficiency virus disease","1C60-1C62.Z",Item
+en2015,"Certain infectious or parasitic diseases","1A00-1H0Z",Item
+en2016,"Gastroenteritis or colitis of infectious origin","1A00-1A40.Z",Item
+en2017,"Certain congenital diseases of the nervous system","8A00-8E7Z",Item
+en2018,"fetus and newborn affected by maternal endocrine and metabolic disorders","KB60-KB6Z",Item
+en2019,"Fetus or newborn affected by pre-existing maternal hypertension complicating pregnancy, childbirth and the puerperium","",Item
+en2020,"Fetus or newborn affected by unspecified maternal hypertension","",Item
+en2021,"Fetus or newborn affected by maternal eclampsia","",Item
+en2022,"Fetus or newborn affected by maternal gestational hypertension with significant proteinuria","",Item
+en2023,"Fetus or newborn affected by maternal gestational hypertension without significant proteinuria","",Item
+en2024,"Fetus or newborn affected by pre-existing maternal hypertensive disorder with superimposed proteinuria","",Item
+en2025,"Fetus or newborn affected by other maternal diseases of urinary system","",Item
+en2026,"Fetus or newborn affected by maternal injury, poisoning or certain other consequences of external causes","",Item
+en2027,"fetus or newborn affected by hydramnios","",Item
+en2028,"Abdominal pregnancy affecting fetus or newborn","",Item
+en2029,"Breech presentation before labour","",Item
+en2030,"External version before labour","",Item
+en2031,"Face presentation before labour","",Item
+en2032,"Transverse lie before labour","",Item
+en2033,"Unstable lie before labour","",Item
+en2034,"Placental and cord abnormalities resulting in twin-to-twin or other transplacental transfusion","",Item
+en2035,"Fetus or newborn affected by entanglement of cord","",Item
+en2036,"Infections of the foetus or newborn","KA60-KA6Z",Item
+en2037,"Fetus and newborn affected by delivery by ventouse","",Item
+en2038,"Fetus or newborn affected by primary inadequate contractions","",Item
+en2039,"Fetus or newborn affected by uterine inertia","",Item
+en2040,"Fetus or newborn affected by secondary uterine inertia","",Item
+en2041,"Fetus or newborn affected by other uterine inertia","",Item
+en2042,"Fetus or newborn affected by hypertonic, incoordinate, and prolonged uterine contractions","",Item
+en2043,"nonteratogenic effects of substances transmitted via placenta","",Item
+en2044,"congenital malformations","LA00-LD9Z",Item
+en2045,"Small-for-dates","",Item
+en2046,"Small-and-light-for-dates","",Item
+en2047,"Fracture of spine due to birth injury","",Item
+en2048,"Subconjunctival haemorrhage due to birth injury","",Item
+en2049,"Traumatic glaucoma due to birth injury","",Item
+en2050,"Facial congestion due to birth injury","",Item
+en2051,"Facial palsy due to birth injury","",Item
+en2052,"Rupture of liver due to birth injury","",Item
+en2053,"Rupture of spleen due to birth injury","",Item
+en2054,"infections acquired in utero or during birth","",Item
+en2055,"human immunodeficiency virus [HIV] disease","1C60-1C62.Z",Item
+en2056,"congenital gonococcal infection","1A70-1A7Z",Item
+en2057,"Gastroenteritis or colitis of infectious origin","1A00-1A40.Z",Item
+en2058,"Foetal varicella syndrome","",Item
+en2059,"Neonatal skin infection","EH10-EH1Z",Item
+en2060,"intracranial haemorrhage due to hypoxia or ischaemia or disorders of coagulation","",Item
+en2061,"Intracranial haemorrhage due to head trauma","NA00-NA0Z",Item
+en2062,"Bruising in fetus or newborn","",Item
+en2063,"Ecchymoses in fetus or newborn","",Item
+en2064,"Petechiae in fetus or newborn","",Item
+en2065,"Superficial haematomata in fetus or newborn","",Item
+en2066,"Pseudomenses","",Item
+en2067,"kernicterus due to inborn errors of metabolism","5C50-5C5Z",Item
+en2068,"Nonspecific floppy baby syndrome","",Item
+en2069,"abnormal fetal heart rate","",Item
+en2070,"meconium in liquor","",Item
+en2071,"passage of meconium","",Item
+en2072,"fetal or intrauterine acidosis","",Item
+en2073,"intrauterine anoxia","",Item
+en2074,"intrauterine asphyxia","",Item
+en2075,"intrauterine distress","",Item
+en2076,"Hyaline membrane disease","",Item
+en2077,"infective pneumonia acquired in utero or during birth","",Item
+en2078,"Pneumonitis","CA70-CA7Z",Item
+en2079,"neonatal pneumonia resulting from aspiration","",Item
+en2080,"Primary failure to expand terminal respiratory units","",Item
+en2081,"congenital malformations of the heart and circulatory system","LA80-LA8Z",Item
+en2082,"Neonatal thyrotoxicosis","",Item
+en2083,"Uraemia of newborn","",Item
+en2084,"Neonatal erythema toxicum","",Item
+en2085,"Noninfective mastitis of newborn","",Item
+en2086,"White asphyxia","",Item
+en2087,"Asphyxia with 5-minute Apgar score 0-3","",Item
+en2088,"Blue asphyxia","",Item
+en2089,"Asphyxia with 5-minute Apgar score 4-7","",Item
+en2090,"Neonatal craniotabes","",Item
+en2091,"Grey syndrome from chloramphenicol administration in newborn","",Item
+en2092,"Drug withdrawal syndrome in infant of dependent mother","",Item
+en2093,"Neonatal abstinence syndrome","",Item
+en2094,"Fetus or newborn affected by cordocentesis","",Item
+en2095,"macerated stillbirth","",Item
+en2096,"antepartum stillbirth","",Item
+en2097,"intrapartum stillbirth","",Item
+en2098,"fresh stillbirth","",Item
+en2099,"Inborn errors of metabolism","5C50-5C5Z",Item
+en2100,"Hemianencephaly","",Item
+en2101,"Hemicephaly","",Item
+en2102,"Holoanencephaly","",Item
+en2103,"Meroanencephaly","",Item
+en2104,"Myelomeningocele","",Item
+en2105,"Syringomyelocele","",Item
+en2106,"Rachischisis","",Item
+en2107,"Spinal dysraphism","",Item
+en2108,"Myeloschisis","",Item
+en2109,"Hydrocephalus in newborn","",Item
+en2110,"Stenosis of the aqueduct of Sylvius","",Item
+en2111,"Hydromicrocephaly","",Item
+en2112,"Micrencephaly","",Item
+en2113,"Hemihydranencephaly","",Item
+en2114,"Split cord malformation","",Item
+en2115,"Spinal cord agenesis","",Item
+en2116,"Dysplasia of eye","",Item
+en2117,"Hypoplasia of eye","",Item
+en2118,"Rudimentary eye","",Item
+en2119,"Agenesis of eye","",Item
+en2120,"Aplasia of eye","",Item
+en2121,"Absence of punctum lacrimale","",Item
+en2122,"Absence of Eustachian tube","",Item
+en2123,"Atresia or stricture of osseous meatus","",Item
+en2124,"fusion of ear ossicles","",Item
+en2125,"anomaly of membranous labyrinth","",Item
+en2126,"anomaly of organ of Corti","",Item
+en2127,"Congenital absence of one tooth","",Item
+en2128,"Supplementary teeth","",Item
+en2129,"Supernumerary teeth","",Item
+en2130,"distomolar","",Item
+en2131,"Fourth molar","",Item
+en2132,"Mesiodens","",Item
+en2133,"Paramolar","",Item
+en2134,"tuberculum paramolare","",Item
+en2135,"Concrescence of teeth","",Item
+en2136,"Gemination of teeth","",Item
+en2137,"Enamel pearls","",Item
+en2138,"Talon for anterior teeth","",Item
+en2139,"Tuberculated premolar","",Item
+en2140,"Leong��s premolar","",Item
+en2141,"Evaginated odontoma for posterior teeth","",Item
+en2142,"Microdontia","",Item
+en2143,"Macrodontia","",Item
+en2144,"Fused mandibular incisors","",Item
+en2145,"Fusion of teeth","",Item
+en2146,"Taurodontism","",Item
+en2147,"Dens evaginatus","",Item
+en2148,"Dens in dente","",Item
+en2149,"Talon cusp","",Item
+en2150,"Abnormal cusps","",Item
+en2151,"Tapered teeth","",Item
+en2152,"Shovel teeth","",Item
+en2153,"Conical teeth","",Item
+en2154,"Globodontia","",Item
+en2155,"Hypocalcified amelogenesis imperfecta","",Item
+en2156,"Hypomaturation amelogenesis imperfecta","",Item
+en2157,"Tongue tie","",Item
+en2158,"Transverse facial cleft","",Item
+en2159,"Hemifacial hypertrophy","",Item
+en2160,"Hemifacial myohyperplasia","",Item
+en2161,"Pterygium colli","",Item
+en2162,"Atresia of trachea","",Item
+en2163,"Congenital honeycomb lung","",Item
+en2164,"Congenital polycystic disease of lung","",Item
+en2165,"Dextrocardia with situs inversus","",Item
+en2166,"Mirror-image atrial arrangement with situs inversus","",Item
+en2167,"Situs inversus totalis","",Item
+en2168,"Congenitally corrected transposition of great arteries","",Item
+en2169,"persistent truncus arteriosus","",Item
+en2170,"truncus arteriosus","",Item
+en2171,"true cleft of tricuspid valve leaflet","",Item
+en2172,"congenital anomaly of tricuspid subvalvular apparatus","",Item
+en2173,"congenital unguarded mitral orifice","",Item
+en2174,"accessory tissue on mitral valve leaflet","",Item
+en2175,"double orifice of mitral valve leaflet","",Item
+en2176,"mucoid thickening of mitral valve","",Item
+en2177,"endocardial cushion defect","",Item
+en2178,"AVC - [atrioventricular canal]","",Item
+en2179,"imperforate mitral valve","",Item
+en2180,"Aortic septal defect","",Item
+en2181,"Aortopulmonary window","",Item
+en2182,"agenesis of pulmonary artery","",Item
+en2183,"Aberrant pulmonary artery","",Item
+en2184,"Anomaly of pulmonary artery","",Item
+en2185,"Absent pulmonary trunk","",Item
+en2186,"congenital coronary fistula to pulmonary artery","",Item
+en2187,"Lymphangioma circumscriptum","",Item
+en2188,"congenital arteriovenous varices NOS","",Item
+en2189,"Tracheo-oesophageal fistula without atresia of oesophagus","",Item
+en2190,"Congenital oesophageal pouch","",Item
+en2191,"oesophageal pouch","",Item
+en2192,"Congenital displacement of cardia through oesophageal hiatus","",Item
+en2193,"Congenital absence of small intestine","",Item
+en2194,"Congenital stenosis of small intestine","",Item
+en2195,"Congenital bile duct dilatation","",Item
+en2196,"Congenital hypoplasia of bile ducts","",Item
+en2197,"Congenital splenomegaly","",Item
+en2198,"isomerism of atrial appendages (with asplenia or polysplenia)","LA80-LA8Z",Item
+en2199,"Lobulated, fused or horseshoe kidney","",Item
+en2200,"Congenital displaced kidney","",Item
+en2201,"Malrotation of kidney","",Item
+en2202,"Impervious urethra","",Item
+en2203,"Ectopia vesicae","",Item
+en2204,"Extroversion of bladder","",Item
+en2205,"Impervious ureter","",Item
+en2206,"Absent ureter","",Item
+en2207,"Double ureter","",Item
+en2208,"Accessory ureter","",Item
+en2209,"Rigid hymen","",Item
+en2210,"Tight introitus","",Item
+en2211,"Congenital absence of cervix","",Item
+en2212,"Congenital absence of uterus","",Item
+en2213,"Fimbrial cyst","",Item
+en2214,"epoophoron cyst","",Item
+en2215,"parovarian cyst","",Item
+en2216,"Monorchidism","",Item
+en2217,"Unilateral or bilateral ectopic testes","",Item
+en2218,"Fusion of testes","",Item
+en2219,"Supernumerary nipple","",Item
+en2220,"Imperfect fusion of skull","",Item
+en2221,"Agnathia","LA30-LA5Z",Item
+en2222,"Spina bifida occulta","",Item
+en2223,"Cryptomerorachischisis","",Item
+en2224,"Congenital absence of sternum","",Item
+en2225,"Cervical fusion syndrome","",Item
+en2226,"Hemivertebra fusion or failure of segmentation with scoliosis","",Item
+en2227,"Congenital spondylolysis","",Item
+en2228,"complex syndactyly of fingers with synostosis","",Item
+en2229,"Simple syndactyly of fingers without synostosis","",Item
+en2230,"Complex syndactyly of toes with synostosis","",Item
+en2231,"Simple syndactyly of toes without synostosis","",Item
+en2232,"Congenital deformities of hand","",Item
+en2233,"congenital flat foot","",Item
+en2234,"Radial clubhand","",Item
+en2235,"Total phocomelia","",Item
+en2236,"Connective tissue naevus","",Item
+en2237,"congenital abnormalities of the nails","",Item
+en2238,"Accessory adrenal gland","",Item
+en2239,"Congenital malposition of adrenal gland","",Item
+en2240,"Congenital cyst of adrenal gland","",Item
+en2241,"Supernumerary adrenal gland","",Item
+en2242,"Congenital absence of adrenal gland","",Item
+en2243,"Agyria","",Item
+en2244,"Pachygyria","",Item
+en2245,"Diaphyseal aclasis","",Item
+en2246,"Fragilitas ossium","",Item
+en2247,"Osteopsathyrosis","",Item
+en2248,"Progeroid syndromes","",Item
+en2249,"Cockayne syndrome","",Item
+en2250,"Rothmund-Thomson syndrome","",Item
+en2251,"Progeria","",Item
+en2252,"Kindler syndrome","",Item
+en2253,"von Recklinghausen disease","",Item
+en2254,"Bourneville disease","",Item
+en2255,"Naevoid basal cell carcinoma syndrome","",Item
+en2256,"Down syndrome","",Item
+en2257,"Patau syndrome","",Item
+en2258,"Pharyngeal pouch syndrome","",Item
+en2259,"DiGeorge syndrome","",Item
+en2260,"Velocardiofacial syndrome","",Item
+en2261,"Robertsonian and balanced reciprocal translocations and insertions","",Item
+en2262,"Monosomy X","",Item
+en2263,"Fragile X syndrome","",Item
+en2264,"Certain conditions originating in the perinatal period","KA00-KD5Z",Item
+en2265,"Lymphadenopathy","",Item
+en2266,"Human immunodeficiency virus disease","1C60-1C62.Z",Item
+en2267,"False-positive Wassermann reaction","",Item
+en2268,"HLA B-27","",Item
+en2269,"Sepsis","1G40-1G41",Item
+en2270,"polycythaemia: NOS","3A80-3A8Z",Item
+en2271,"anaemias","3A00-3A9Z",Item
+en2272,"abnormality of fluid, electrolyte or acid-base balance","5C70-5C7Z",Item
+en2273,"Abnormal blood level of mineral NEC","",Item
+en2274,"Disorders of plasma-protein metabolism, not elsewhere classified","5D00-5D0Y",Item
+en2275,"progressive isolated aphasia","8E40-8E4Z",Item
+en2276,"Loss of voice","",Item
+en2277,"Dissociative disorders","6B60-6B6Z",Item
+en2278,"Semicoma","",Item
+en2279,"Catatonia","6A40-6A4Z",Item
+en2280,"Dissociative disorders","6B60-6B6Z",Item
+en2281,"Disruptive behaviour or dissocial disorders","6C90-6C9Z",Item
+en2282,"Schizophrenia or other primary psychotic disorders","6A20-6A2Z",Item
+en2283,"Bipolar or related disorders","6A60-6A6Z",Item
+en2284,"Nervous tension","",Item
+en2285,"Mood disorders","6A60-6A8Z",Item
+en2286,"negative emotionality","",Item
+en2287,"proneness to negative emotional states","",Item
+en2288,"Numbness of skin","",Item
+en2289,"cacogeusia","",Item
+en2290,"ageusia","",Item
+en2291,"Staggering gait","",Item
+en2292,"Spastic gait","",Item
+en2293,"Bedfast","",Item
+en2294,"Chairfast","",Item
+en2295,"Catatonia","6A40-6A4Z",Item
+en2296,"Movement disorders","8A00-8A0Z",Item
+en2297,"hyperactive gag reflex","CA00-CA0Z",Item
+en2298,"Tendency to fall because of old age or other unclear health problems","",Item
+en2299,"falls causing injury","NA00-NF2Z",Item
+en2300,"accidents","PA00-PL2Z",Item
+en2301,"Carpopedal spasm","",Item
+en2302,"Central positional nystagmus","",Item
+en2303,"Quadriplegia","",Item
+en2304,"paralysis of both upper limbs","",Item
+en2305,"Paralysis of both arms","",Item
+en2306,"congenital cerebral palsy","8D20-8D2Z",Item
+en2307,"paralysis of upper limb","",Item
+en2308,"Paralysis of arm","",Item
+en2309,"paralysis of lower limb","",Item
+en2310,"Paralysis of leg","",Item
+en2311,"specified arrhythmias","BC60-BC9Z",Item
+en2312,"Cardiovascular disorders present in the perinatal or neonatal period","KB40-KB4Z",Item
+en2313,"Awareness of heart beat","",Item
+en2314,"Cardiovascular disorders present in the perinatal or neonatal period","KB40-KB4Z",Item
+en2315,"Functional cardiac murmur","",Item
+en2316,"Sleep-related breathing disorders","7A40-7A4Z",Item
+en2317,"asphyxia due to traumatic","NA00-NF2Z",Item
+en2318,"Orthopnoea","",Item
+en2319,"congenital laryngeal stridor","KB20-KB2Z",Item
+en2320,"Nosebleed","",Item
+en2321,"Haemorrhage from nose","",Item
+en2322,"Blood-stained sputum","",Item
+en2323,"Cough with haemorrhage","",Item
+en2324,"Painful respiration","",Item
+en2325,"Symptoms, signs or clinical findings involving the male genital system","MF40-MF4Y",Item
+en2326,"Symptoms, signs or clinical findings involving the urinary system","MF50-MF5Y",Item
+en2327,"Symptoms, signs or clinical findings involving the female genital system","MF30-MF3Y",Item
+en2328,"Epigastric pain","",Item
+en2329,"Difficulty in swallowing","",Item
+en2330,"faecal impaction","",Item
+en2331,"frequent/loose bowel movements","",Item
+en2332,"watery stools","",Item
+en2333,"Change in faeces or bowel movements","ME00-ME0Y",Item
+en2334,"infectious diarrhoea","1A00-1A40.Z",Item
+en2335,"Gastroenteritis or colitis of infectious origin","1A00-1A40.Z",Item
+en2336,"Gas pain","",Item
+en2337,"Other faecal abnormalities","ME00-ME0Y",Item
+en2338,"perforation due to malignant neoplasm","",Item
+en2339,"Diverticular disease of large intestine","DC80-DC82.Z",Item
+en2340,"Neoplasms of the large intestine","",Item
+en2341,"Rupture of bile duct","",Item
+en2342,"occult blood in faeces","ME00-ME0Y",Item
+en2343,"Drug eruptions","EH60-EH6Z",Item
+en2344,"Photosensitivity","",Item
+en2345,"Drug eruptions","EH60-EH6Z",Item
+en2346,"Drug eruptions","EH60-EH6Z",Item
+en2347,"cervicalgia","",Item
+en2348,"Lumbago NOS","",Item
+en2349,"Loin pain","",Item
+en2350,"Low back strain","",Item
+en2351,"Degenerative condition of spine","FA80-FA8Z",Item
+en2352,"that due to intervertebral disc disorder","FA80-FA8Z",Item
+en2353,"Degenerative condition of spine","FA80-FA8Z",Item
+en2354,"Spondylopathies","FB00-FB0Z",Item
+en2355,"Arthropathies","FA00-FA5Z",Item
+en2356,"haematuria: recurrent and persistent","GB40-GB4Z",Item
+en2357,"haematuria with specified morphological lesion","GB40-GB4Z",Item
+en2358,"recurrent or persistent haematuria","GB40-GB4Z",Item
+en2359,"Strangury","",Item
+en2360,"that complicating: pregnancy, childbirth and the puerperium","JA00-JB6Z",Item
+en2361,"Prerenal uraemia","",Item
+en2362,"Urethrorrhoea","",Item
+en2363,"Penile discharge","",Item
+en2364,"Goodpasture syndrome","",Item
+en2365,"Ketonuria","",Item
+en2366,"Abnormal renal function test","",Item
+en2367,"malignant cachexia","2D40-2D4Z",Item
+en2368,"General physical deterioration","",Item
+en2369,"Lethargy","",Item
+en2370,"Depressive disorders","6A70-6A7Z",Item
+en2371,"Sleep-wake disorders","7A00-7B2Z",Item
+en2372,"Bipolar or related disorders","6A60-6A6Z",Item
+en2373,"malaise","",Item
+en2374,"fever of unknown origin in newborn","KD10-KD1Z",Item
+en2375,"oedema of pharynx","CA00-CA0Z",Item
+en2376,"oedema of nasopharynx","CA00-CA0Z",Item
+en2377,"hydrothorax","CB20-CB2Z",Item
+en2378,"malnutrition","5B50-5B7Z",Item
+en2379,"old age without mention of psychosis","",Item
+en2380,"senescence without mention of psychosis","",Item
+en2381,"senile debility","",Item
+en2382,"Senile dementia","6D80-6D8Z",Item
+en2383,"pain not referable to any one organ or body region","",Item
+en2384,"Headache disorders","8A80-8A8Z",Item
+en2385,"Fibromyalgia","",Item
+en2386,"Headache disorders","8A80-8A8Z",Item
+en2387,"Feeding or eating disorders","6B80-6B8Z",Item
+en2388,"malnutrition","5B50-5B7Z",Item
+en2389,"Excessive thirst","",Item
+en2390,"Excessive eating","",Item
+en2391,"Bipolar or related disorders","6A60-6A6Z",Item
+en2392,"Depressive disorders","6A70-6A7Z",Item
+en2393,"Feeding or eating disorders","6B80-6B8Z",Item
+en2394,"Feeding or eating disorders","6B80-6B8Z",Item
+en2395,"Feeding or eating disorders","6B80-6B8Z",Item
+en2396,"Feeding or eating disorders","6B80-6B8Z",Item
+en2397,"Feeding or eating disorders","6B80-6B8Z",Item
+en2398,"Loss of appetite","",Item
+en2399,"loss of appetite of nonorganic origin","6B80-6B8Z",Item
+en2400,"Irritable infant","",Item
+en2401,"Delayed attainment of expected physiological developmental stage","",Item
+en2402,"Fainting","",Item
+en2403,"Blackout","",Item
+en2404,"Harmful effects of substances","NE60-NE6Z",Item
+en2405,"Undiagnosed disease, not specified as to the site or system involved","",Item
+en2406,"Sudden unexplained death in adult","",Item
+en2407,"Found dead","",Item
+en2408,"Unknown cause of mortality","",Item
+en2409,"Birth injury","KA40-KA4Z",Item
+en2410,"Burns","ND90-NE2Z",Item
+en2411,"Frostbite","NE40-NE4Z",Item
+en2412,"black eye","",Item
+en2413,"laceration of skin of head","",Item
+en2414,"Fracture of malar","",Item
+en2415,"Broken tooth","",Item
+en2416,"Commotio cerebri","",Item
+en2417,"traumatic intracerebral haematoma","",Item
+en2418,"Frostbite","NE40-NE4Z",Item
+en2419,"injury of trunk NOS","ND50-ND5Z",Item
+en2420,"laceration of skin of neck","",Item
+en2421,"fracture of cervical neural arch","",Item
+en2422,"fracture of cervical spine","",Item
+en2423,"fracture of cervical spinous process","",Item
+en2424,"fracture of cervical transverse process","",Item
+en2425,"fracture of cervical vertebra","",Item
+en2426,"fracture of cervical vertebral arch","",Item
+en2427,"Whiplash injury","",Item
+en2428,"Decapitation","",Item
+en2429,"injuries of shoulder","NC10-NC1Z",Item
+en2430,"injuries of clavicle","NC10-NC1Z",Item
+en2431,"injuries of scapular region","NC10-NC1Z",Item
+en2432,"Frostbite","NE40-NE4Z",Item
+en2433,"injuries of axilla","NC10-NC1Z",Item
+en2434,"Burns","ND90-NE2Z",Item
+en2435,"open wound thoracic wall NOS","",Item
+en2436,"laceration of skin of thorax","",Item
+en2437,"Pulmonary plexus","",Item
+en2438,"Stellate ganglion","",Item
+en2439,"Thoracic sympathetic ganglion","",Item
+en2440,"incomplete transection of thoracic aorta","",Item
+en2441,"laceration of thoracic aorta NOS","",Item
+en2442,"superficial laceration of thoracic aorta","",Item
+en2443,"complete transection of thoracic aorta","",Item
+en2444,"traumatic rupture of thoracic aorta","",Item
+en2445,"incomplete transection of innominate or subclavian artery","",Item
+en2446,"laceration of innominate or subclavian artery NOS","",Item
+en2447,"superficial laceration of innominate or subclavian artery","",Item
+en2448,"complete transection of innominate or subclavian artery","",Item
+en2449,"traumatic rupture of innominate or subclavian artery","",Item
+en2450,"incomplete transection of superior vena cava","",Item
+en2451,"laceration of superior vena cava NOS","",Item
+en2452,"superficial laceration of superior vena cava","",Item
+en2453,"complete transection of superior vena cava","",Item
+en2454,"traumatic rupture of superior vena cava","",Item
+en2455,"incomplete transection of innominate or subclavian vein","",Item
+en2456,"laceration of innominate or subclavian vein NOS","",Item
+en2457,"superficial laceration of innominate or subclavian vein","",Item
+en2458,"complete transection of innominate or subclavian vein","",Item
+en2459,"traumatic rupture of innominate or subclavian vein","",Item
+en2460,"incomplete transection of pulmonary blood vessels","",Item
+en2461,"laceration of pulmonary blood vessels NOS","",Item
+en2462,"superficial laceration of pulmonary blood vessels","",Item
+en2463,"complete transection of pulmonary blood vessels","",Item
+en2464,"traumatic rupture of pulmonary blood vessels","",Item
+en2465,"laceration of heart without penetration of heart chamber","",Item
+en2466,"laceration of heart with penetration of heart chamber","",Item
+en2467,"laceration of heart with penetration of multiple heart chambers","",Item
+en2468,"injury of cervical oesophagus","NA20-NA6Z",Item
+en2469,"injury of trachea (cervical)","NA20-NA6Z",Item
+en2470,"laceration of bronchus less than 1 cm","",Item
+en2471,"laceration of bronchus NOS","",Item
+en2472,"laceration of bronchus 1 to 3 cm","",Item
+en2473,"laceration of bronchus greater than 3 cm","",Item
+en2474,"massive laceration of bronchus","",Item
+en2475,"multiple moderate lacerations of bronchus","",Item
+en2476,"stellate laceration of bronchus","",Item
+en2477,"laceration of thoracic trachea less than 1 cm","",Item
+en2478,"laceration of thoracic trachea NOS","",Item
+en2479,"laceration of thoracic trachea 1 to 3 cm","",Item
+en2480,"laceration of thoracic trachea greater than 3 cm","",Item
+en2481,"massive laceration of thoracic trachea","",Item
+en2482,"multiple moderate lacerations of thoracic trachea","",Item
+en2483,"stellate laceration of thoracic trachea","",Item
+en2484,"incomplete transection of abdominal aorta","",Item
+en2485,"laceration of abdominal aorta NOS","",Item
+en2486,"superficial laceration of abdominal aorta","",Item
+en2487,"complete transection of abdominal aorta","",Item
+en2488,"traumatic rupture of abdominal aorta","",Item
+en2489,"incomplete transection of inferior vena cava","",Item
+en2490,"laceration of inferior vena cava NOS","",Item
+en2491,"superficial laceration of inferior vena cava","",Item
+en2492,"complete transection of inferior vena cava","",Item
+en2493,"traumatic rupture of inferior vena cava","",Item
+en2494,"incomplete transection of coeliac artery","",Item
+en2495,"laceration of coeliac artery NOS","",Item
+en2496,"superficial laceration of celiac artery","",Item
+en2497,"complete transection of coeliac artery","",Item
+en2498,"traumatic rupture of coeliac artery","",Item
+en2499,"incomplete transection of mesenteric artery","",Item
+en2500,"laceration of mesenteric artery NOS","",Item
+en2501,"superficial laceration of mesenteric artery","",Item
+en2502,"complete transection of mesenteric artery","",Item
+en2503,"traumatic rupture of mesenteric artery","",Item
+en2504,"incomplete transection of portal or splenic vein","",Item
+en2505,"laceration of portal or splenic vein NOS","",Item
+en2506,"superficial laceration of portal or splenic vein","",Item
+en2507,"complete transection of portal or splenic vein","",Item
+en2508,"traumatic rupture of portal or splenic vein","",Item
+en2509,"incomplete transection of renal blood vessels","",Item
+en2510,"superficial laceration of renal blood vessels","",Item
+en2511,"laceration of renal blood vessels NOS","",Item
+en2512,"complete transection of renal blood vessels","",Item
+en2513,"traumatic rupture of renal blood vessels","",Item
+en2514,"incomplete transection of iliac blood vessels","",Item
+en2515,"laceration of iliac blood vessels NOS","",Item
+en2516,"superficial laceration of iliac blood vessels","",Item
+en2517,"complete transection of iliac blood vessels","",Item
+en2518,"traumatic rupture of iliac blood vessels","",Item
+en2519,"Perforation of duodenum due to Injury","",Item
+en2520,"Iatrogenic injury of small intestine","",Item
+en2521,"Traumatic amputation of penis","",Item
+en2522,"Traumatic amputation of vulva","",Item
+en2523,"Burns","ND90-NE2Z",Item
+en2524,"Frostbite","NE40-NE4Z",Item
+en2525,"Injuries to the elbow or forearm","NC30-NC3Z",Item
+en2526,"laceration of skin of shoulder or upper arm","",Item
+en2527,"fracture of articular process of humerus","",Item
+en2528,"Injuries to the wrist or hand","NC50-NC5Z",Item
+en2529,"Burns","ND90-NE2Z",Item
+en2530,"Frostbite","NE40-NE4Z",Item
+en2531,"laceration of skin of forearm","",Item
+en2532,"Radiohumeral joint","",Item
+en2533,"Burns","ND90-NE2Z",Item
+en2534,"Frostbite","NE40-NE4Z",Item
+en2535,"laceration of skin of wrist or hand","",Item
+en2536,"Dislocation of phalanx, hand","",Item
+en2537,"Frostbite","NE40-NE4Z",Item
+en2538,"Burns","ND90-NE2Z",Item
+en2539,"laceration of skin of hip or thigh","",Item
+en2540,"Trochanteric fracture","",Item
+en2541,"Burns","ND90-NE2Z",Item
+en2542,"Frostbite","NE40-NE4Z",Item
+en2543,"Injuries to the ankle or foot","ND10-ND1Z",Item
+en2544,"laceration of skin of lower leg","",Item
+en2545,"Comminuted fracture of patella","",Item
+en2546,"Fracture of shaft of tibia with or without mention of fracture of fibula","",Item
+en2547,"Fracture of lower end of tibia with or without mention of fracture of fibula","",Item
+en2548,"Frostbite","NE40-NE4Z",Item
+en2549,"Burns","ND90-NE2Z",Item
+en2550,"laceration of skin of ankle or foot","",Item
+en2551,"Fracture of astragalus","",Item
+en2552,"Dislocation of astragalus","",Item
+en2553,"Dislocation of talus","",Item
+en2554,"Combined traumatic amputation of toe(s) and other parts of foot","",Item
+en2555,"Frostbite","NE40-NE4Z",Item
+en2556,"Burns","ND90-NE2Z",Item
+en2557,"avulsion involving multiple body regions","",Item
+en2558,"Injuries involving multiple body regions","ND30-ND37",Item
+en2559,"deformity NOS","",Item
+en2560,"scarring resulting from previous injury","",Item
+en2561,"old amputation","",Item
+en2562,"foreign body in digestive system NOS","",Item
+en2563,"internal chemical burn or corrosion","",Item
+en2564,"external chemical burn or corrosion","",Item
+en2565,"burns from hot objects","",Item
+en2566,"burns from friction","",Item
+en2567,"burns from hot air and hot gases","",Item
+en2568,"burns from lightning","",Item
+en2569,"Adverse cutaneous effects of therapeutic ionizing irradiation","EL60-EL6Z",Item
+en2570,"Adverse effects of phototherapy","EL50-EL8Y",Item
+en2571,"Phototoxic reactions to skin contact with photoactive agents","EK20-EK2Z",Item
+en2572,"frostbite with partial-thickness skin loss","",Item
+en2573,"Reaction to blood-group incompatibility in infusion or transfusion","",Item
+en2574,"Reaction due to Rh factor in infusion or transfusion","",Item
+en2575,"Intraoperative haemorrhage and haematoma of eye or ocular adnexa complicating an ophthalmic procedure","",Item
+en2576,"Postprocedural haemorrhage or haematoma of eye or ocular adnexa following a procedure","",Item
+en2577,"heat prostration NOS","",Item
+en2578,"Burns","ND90-NE2Z",Item
+en2579,"Dermatoses provoked by heat or electricity","EJ10-EJ1Y",Item
+en2580,"Heat collapse","",Item
+en2581,"Heat prostration due to water depletion","",Item
+en2582,"Accidental hypothermia","",Item
+en2583,"Frostbite","NE40-NE4Z",Item
+en2584,"Frostbite","NE40-NE4Z",Item
+en2585,"Aero-otitis media","",Item
+en2586,"Aerosinusitis","",Item
+en2587,"Effects of change in ambient atmospheric pressure on sinuses","",Item
+en2588,"Compressed-air disease","",Item
+en2589,"Deprivation of food","",Item
+en2590,"Starvation","",Item
+en2591,"Deprivation of water","",Item
+en2592,"electric burns","ND90-NE2Z",Item
+en2593,"Immersion","",Item
+en2594,"gun for single hand use","",Item
+en2595,"pistol","",Item
+en2596,"revolver","",Item
+en2597,"shot NOS","",Item
+en2598,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2599,"accidental overdose of opioids or related analgesics","",Item
+en2600,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2601,"accidental overdose by sedative hypnotic drugs or other CNS depressants","",Item
+en2602,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2603,"accidental overdose of psychostimulants","",Item
+en2604,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2605,"accidental overdose of cannabinoids or hallucinogens","",Item
+en2606,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2607,"accidental overdose of antidepressants","",Item
+en2608,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2609,"accidental overdose of antipsychotics","",Item
+en2610,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2611,"accidental overdose of antiepilepics or antiparkinsonism drugs","",Item
+en2612,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2613,"intentional fall from one level to another","",Item
+en2614,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2615,"carbon tetrachloride [tetrachloromethane]","",Item
+en2616,"assault by being stabbed NOS","",Item
+en2617,"Substances associated with injury or harm in therapeutic use","PL00-PL0Z",Item
+en2618,"Legal intervention with: machine gun","",Item
+en2619,"Legal intervention with: revolver","",Item
+en2620,"Legal intervention with: rifle pellet or rubber bullet","",Item
+en2621,"Hit, struck by: baton during legal intervention","",Item
+en2622,"Hit, struck by: blunt object during legal intervention","",Item
+en2623,"Hit, struck by: stave during legal intervention","",Item
+en2624,"Cut during legal intervention","",Item
+en2625,"Injured by bayonet during legal intervention","",Item
+en2626,"Stabbed during legal intervention","",Item
+en2627,"Legal intervention with: dynamite","",Item
+en2628,"Legal intervention with: explosive shell","",Item
+en2629,"Legal intervention with: grenade","",Item
+en2630,"Legal intervention with: mortar bomb","",Item
+en2631,"Asphyxiation by gas due to legal intervention","",Item
+en2632,"Injury by tear gas due to legal intervention","",Item
+en2633,"Poisoning by gas due to legal intervention","",Item
+en2634,"Aircraft: burned","",Item
+en2635,"Aircraft: exploded","",Item
+en2636,"Aircraft: shot down","",Item
+en2637,"Crushed by falling aircraft","",Item
+en2638,"Use of nuclear weapons during armed conflict","PK10-PK1Z",Item
+en2639,"Injury event occurring after cessation of armed conflict","PK40-PK4Z",Item
+en2640,"Weaponised anthrax, influenxa or other virus","",Item
+en2641,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2642,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2643,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2644,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2645,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2646,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2647,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2648,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2649,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2650,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2651,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2652,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2653,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2654,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2655,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2656,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2657,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2658,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2659,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2660,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2661,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2662,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2663,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2664,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2665,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2666,"Circumstances associated with a surgical or other medical procedure influencing the episode of care, without injury or harm","QA50-QA5Z",Item
+en2667,"Circumstances associated with a surgical or other medical device influencing the episode of care without injury or harm","QA60-QA6Z",Item
+en2668,"Circumstances associated with a surgical or other medical device influencing the episode of care without injury or harm","QA60-QA6Z",Item
+en2669,"Circumstances associated with a surgical or other medical device influencing the episode of care without injury or harm","QA60-QA6Z",Item
+en2670,"Circumstances associated with a surgical or other medical device influencing the episode of care without injury or harm","QA60-QA6Z",Item
+en2671,"Gender incongruence","HA60-HA6Z",Item
+en2672,"examinations related to pregnancy and reproduction","QA20-QA4Z",Item
+en2673,"Clinical findings in blood, blood-forming organs, or the immune system","MA10-MA1Y",Item
+en2674,"Symptoms, signs or clinical findings, not elsewhere classified","MA00-MH2Y",Item
+en2675,"Health supervision or care of other healthy infant or child","QC20-QC2Z",Item
+en2676,"medical surveillance following treatment for malignant neoplasms","",Item
+en2677,"follow-up medical care and convalescence","QB70-QB7Z",Item
+en2678,"medical surveillance following treatment for conditions other than malignant neoplasms","",Item
+en2679,"Fitting, adjustment or management of devices","QB30-QB3Z",Item
+en2680,"Convalescence","QB70-QB7Z",Item
+en2681,"Viral intestinal infections","1A20-1A2Z",Item
+en2682,"Protozoal intestinal infections","1A30-1A3Z",Item
+en2683,"Mental, behavioural or neurodevelopmental disorders","6A00-6E8Z",Item
+en2684,"Disorders due to substance use or addictive behaviours","6C40-6C5Z",Item
+en2685,"Conditions related to sexual health","HA00-HA8Z",Item
+en2686,"Contact with health services for procreative management","QA30-QA3Z",Item
+en2687,"Complications predominantly related to the puerperium","JB40-JB4Z",Item
+en2688,"Difficulty or need for assistance with activities","QF20-QF2Z",Item
+en2689,"presence of prosthetic device","QB50-QB5Z",Item
+en2690,"renal dialysis status","",Item
+en2691,"Fitting, adjustment or management of devices","QB30-QB3Z",Item
+en2692,"presence of insulin pump","",Item
+en2693,"Convalescence","QB70-QB7Z",Item
+en2694,"fitting and adjustment of prosthetic and other devices","QB30-QB3Z",Item
+en2695,"organ or tissue replaced by heterogenous or homogenous transplant","",Item
+en2696,"kidney transplant status","",Item
+en2697,"follow-up examination for medical surveillance after treatment","QA00-QA0Z",Item
+en2698,"plastic and reconstructive surgery following healed injury or operation","",Item
+en2699,"repair of scarred tissue","",Item
+en2700,"removal of external fixation device","QB80-QB8Z",Item
+en2701,"dialysis preparation and treatment","",Item
+en2702,"Contact with health services for counselling","QA10-QA1Z",Item
+en2703,"Factitious disorders","6D50-6D5Z",Item
+en2704,"follow-up examination","QA00-QA0Z",Item
+en2705,"Convalescence","QB70-QB7Z",Item
+en2706,"Mental, behavioural or neurodevelopmental disorders","6A00-6E8Z",Item
+en2707,"Problems associated with health behaviours","QE10-QE2Z",Item
+en2708,"Convalescence","QB70-QB7Z",Item
+en2709,"Certain skin disorders attributable to bacterial infection","EA40-EA5Z",Item
+en2710,"malnutrition","5B50-5B7Z",Item
+en2711,"Disorders specifically associated with stress","6B40-6B4Z",Item
+en2712,"Anxiety or fear-related disorders","6B00-6B0Z",Item
+en2713,"Mood disorders","6A60-6A8Z",Item
+en2714,"factors associated with psychological development","6A00-6E8Z",Item
+en2715,"Underachievement in school","",Item
+en2716,"Disorders specifically associated with stress","6B40-6B4Z",Item
+en2717,"Disorders due to substance use","6C40-6C4Z",Item
+en2718,"Disorders due to substance use","6C40-6C4Z",Item
+en2719,"malnutrition and other nutritional deficiencies","5B50-5C3Z",Item
+en2720,"Feeding or eating disorders","6B80-6B8Z",Item
+en2721,"Mental, behavioural or neurodevelopmental disorders","6A00-6E8Z",Item
+en2722,"Disorders specifically associated with stress","6B40-6B4Z",Item
+en2723,"acute crisis reaction","",Item
+en2724,"acute reaction to stress","",Item
+en2725,"postoperative loss of limb","",Item
+en2726,"post traumatic loss of limb","",Item
+en2727,"postoperative absence of endocrine glands","5D40-5D46",Item
+en2728,"Difficulty or need for assistance with activities","QF20-QF2Z",Item
+en2729,"Dependence on enabling machines or devices","QB40-QB4Z",Item
+en2730,"difficulty with carrying out tasks and daily routine","",Item
+en2731,"Lack of relaxation or leisure","",Item
+en2732,"Acute jaundice","",Item
+en2733,"Yang jaundice","",Item
+en2734,"Yin jaundice","",Item
+en2735,"Tympanism disorder (TM1)","",Item
+en2736,"Tympany disorder (TM1)","",Item
+en2737,"Fright palpitation disorder (TM1)","",Item
+en2738,"Fearful throbbing disorder (TM1)","",Item
+en2739,"Heart pain disorder (TM1)","",Item
+en2740,"Chest impediment disorder (TM1)","",Item
+en2741,"Severe heart pain disorder (TM1)","",Item
+en2742,"Choke disorder (TM1)","",Item
+en2743,"Food accumulation disorder (TM1)","",Item
+en2744,"Panting disorder (TM1)","",Item
+en2745,"Ischuria disorder (TM1)","",Item
+en2746,"Dysuria and frequent vomiting disorder (TM1)","",Item
+en2747,"Hernia (TM1)","",Item
+en2748,"Male Sterility disorder (TM1)","",Item
+en2749,"Eczema disorder (TM1)","",Item
+en2750,"Boil disorders (TM1)","",Item
+en2751,"Decubitus disorder (TM1)","",Item
+en2752,"Multiple abscesses disorder (TM1)","",Item
+en2753,"Smelly snail disorder (TM1)","",Item
+en2754,"Tinea corporis disorder (TM1)","",Item
+en2755,"Ichthyosis disorder (TM1)","",Item
+en2756,"Toe gangrene disorder (TM1)","",Item
+en2757,"Goose web wind disorder (TM1)","",Item
+en2758,"Herpes zoster around the waist and hypochondrium disorder (TM1)","",Item
+en2759,"Snake-shaped herpes zoster, herpes zoster around the waist and hypochondria (TM1)","",Item
+en2760,"Snake-clustered sores disorder (TM1)","",Item
+en2761,"Menstrual cycle disorders (TM1)","",Item
+en2762,"Hypermenorrhea disorder (TM1)","",Item
+en2763,"Scanty menstruation disorder (TM1)","",Item
+en2764,"No periods disorder (TM1)","",Item
+en2765,"Menstrual cramp disorder (TM1)","",Item
+en2766,"Painful periods disorder (TM1)","",Item
+en2767,"Vomiting during pregnancy disorder (TM1)","",Item
+en2768,"Shifted colic disorder (TM1)","",Item
+en2769,"Shifted bladder disorder (TM1)","",Item
+en2770,"Bladder colic disorder (TM1)","",Item
+en2771,"Gravid oppression disorder (TM1)","",Item
+en2772,"Pregnancy suspension disorder (TM1)","",Item
+en2773,"Postpartum abdominal pain disorder (TM1)","",Item
+en2774,"Convulsions after childbirth disorder (TM1)","",Item
+en2775,"Postpartum spasm disorder (TM1)","",Item
+en2776,"Vaginal discharge disorder (TM1)","",Item
+en2777,"Female infertility disorder (TM1)","",Item
+en2778,"Female sterility disorder (TM1)","",Item
+en2779,"Stony womb mass disorder (TM1)","",Item
+en2780,"Hyperplasia of mammary gland disorder (TM1)","",Item
+en2781,"Fibrocystic breast disorder (TM1)","",Item
+en2782,"Impediment disorders (TM1)","",Item
+en2783,"Hindrance disorders (TM1)","",Item
+en2784,"Cold hindrance disorder (TM1)","",Item
+en2785,"Painful impediment disorder (TM1)","",Item
+en2786,"Moving impediment disorder (TM1)","",Item
+en2787,"Wind hindrance disorder (TM1)","",Item
+en2788,"Migrating painful movement disorder (TM1)","",Item
+en2789,"Migratory impediment (TM1)","",Item
+en2790,"Dampness hindrance disorder (TM1)","",Item
+en2791,"Fixed impediment disorder (TM1)","",Item
+en2792,"Muscle cramp disorder (TM1)","",Item
+en2793,"Low back pain disorder (TM1)","",Item
+en2794,"Nyctalopia disorder (TM1)","",Item
+en2795,"Wry mouth disorder (TM1)","",Item
+en2796,"Migraine pain disorder (TM1)","",Item
+en2797,"Convulsive disorder (TM1)","",Item
+en2798,"Postpartum convulsion disorder (TM1)","",Item
+en2799,"Onset of wind stroke (TM1)","",Item
+en2800,"Qi syncope disorder (TM1)","",Item
+en2801,"Blood syncope disorder (TM1)","",Item
+en2802,"Phlegm syncope disorder (TM1)","",Item
+en2803,"Hunger syncope disorder (TM1)","",Item
+en2804,"Cold syncope disorder (TM1)","",Item
+en2805,"Melancholy disorder (TM1)","",Item
+en2806,"Depressive disorder (TM1)","",Item
+en2807,"Postpartum depression disorder (TM1)","",Item
+en2808,"Pregnancy depression disorder (TM1)","",Item
+en2809,"Aged dementia disorders (TM1)","",Item
+en2810,"Fire disorder (TM1)","",Item
+en2811,"Repressed anger disorder (TM1)","",Item
+en2812,"Cholera","",Item
+en2813,"Malaria","",Item
+en2814,"Bone and joint tuberculosis disorder (TM1)","",Item
+en2815,"Infant flaccidity disorder (TM1)","",Item
+en2816,"Infant flaccid disorder (TM1)","",Item
+en2817,"Qi decrease pattern (TM1)","",Item
+en2818,"Qi depression pattern (TM1)","",Item
+en2819,"Qi reflux pattern (TM1)","",Item
+en2820,"Qi counterflow pattern (TM1)","",Item
+en2821,"Qi rising pattern (TM1)","",Item
+en2822,"Qi fall pattern (TM1)","",Item
+en2823,"Primordial qi collapse pattern (TM1)","",Item
+en2824,"Blood decrease patterns (TM1)","",Item
+en2825,"Blood stagnation pattern (TM)","",Item
+en2826,"Fluid decrease pattern (TM1)","",Item
+en2827,"Fluid dysfunction pattern (TM1)","",Item
+en2828,"Fluid retention pattern (TM1)","",Item
+en2829,"Liver deficiency-heat pattern (TM1)","",Item
+en2830,"Liver deficiency-cold pattern (TM1)","",Item
+en2831,"Pattern of liver blood stasis and stagnation (TM1)","",Item
+en2832,"Pattern of liver stasis with qi stagnation (TM1)","",Item
+en2833,"Internal stirring of liver wind (TM1)","",Item
+en2834,"Liver meridian stagnated heat pattern (TM1)","",Item
+en2835,"Liver depression and qi stagnation pattern (TM1)","",Item
+en2836,"Hyperactivity of liver fire pattern (TM1)","",Item
+en2837,"Pattern of heat stirring liver wind (TM1)","",Item
+en2838,"Damp-heat in liver-gallbladder (TM1)","",Item
+en2839,"Cold stagnation in liver meridian pattern (TM1)","",Item
+en2840,"Liver meridian excess cold pattern (TM1)","",Item
+en2841,"Liver cold pattern (TM1)","",Item
+en2842,"Gallbladder insufficiency with timidity (TM1)","",Item
+en2843,"Gallbladder deficiency with qi timidity (TM1)","",Item
+en2844,"Stagnation of gallbladder and disturbance of phlegm pattern (TM1)","",Item
+en2845,"Gallbladder meridian depressed heat pattern (TM1)","",Item
+en2846,"Heat stagnation in the gallbladder meridian pattern (TM1)","",Item
+en2847,"Gallbladder fire pattern (TM1)","",Item
+en2848,"Liver depression and spleen deficiency pattern (TM1)","",Item
+en2849,"Imbalance between liver and spleen pattern (TM1)","",Item
+en2850,"Liver qi invading the stomach pattern (TM1)","",Item
+en2851,"Liver-stomach disharmony pattern (TM1)","",Item
+en2852,"Disharmony between liver and stomach pattern (TM1)","",Item
+en2853,"Wood fire tormenting metal pattern (TM1)","",Item
+en2854,"Heart yin depletion pattern (TM1)","",Item
+en2855,"Pattern of melancholy damaging spirit (TM1)","",Item
+en2856,"Spleen qi depletion pattern (TM1)","",Item
+en2857,"Middle qi sinking pattern (TM1)","",Item
+en2858,"Spleen yin depletion pattern (TM1)","",Item
+en2859,"Pattern of spleen deficiency and cold (TM1)","",Item
+en2860,"Spleen yang depletion pattern (TM1)","",Item
+en2861,"Damp heat in the spleen system pattern (TM1)","",Item
+en2862,"Dampness and heat in the spleen and stomach systems pattern (TM1)","",Item
+en2863,"Dampness encumbering the spleen and stomach systems pattern (TM1)","",Item
+en2864,"Spleen deficiency with dampness encumbrance pattern (TM1)","",Item
+en2865,"Spleen qi deficiency with water retention pattern (TM1)","",Item
+en2866,"Spleen qi deficiency with dampness pattern (TM1)","",Item
+en2867,"Stomach qi reverse flow pattern (TM1)","",Item
+en2868,"Stomach yin depletion pattern (TM1)","",Item
+en2869,"Stomach deficiency and heat pattern (TM1)","",Item
+en2870,"Stomach cold excess pattern (TM1)","",Item
+en2871,"Intense lung heat pattern (TM1)","",Item
+en2872,"Kidney qi depletion pattern (TM1)","",Item
+en2873,"Lung-kidney deficiency pattern (TM1)","",Item
+en2874,"Insufficient qi of the lung and kidney pattern (TM1)","",Item
+en2875,"Kidney qi deficiency with water flooding pattern (TM1)","",Item
+en2876,"Genuine yin deficiency pattern (TM1)","",Item
+en2877,"Kidney water depletion and deficiency pattern (TM1)","",Item
+en2878,"Primordial yin deficiency pattern (TM1)","",Item
+en2879,"Life-gate fire depletion pattern (TM1)","",Item
+en2880,"Primordial yang deficiency pattern (TM1)","",Item
+en2881,"Blood heat build up in the uterus pattern (TM1)","",Item
+en2882,"Phlegm congealment in the uterus pattern (TM)","",Item
+en2883,"Dampness Phlegm obstructing the uterus pattern (TM)","",Item
+en2884,"Cold congealment in the uterus pattern (TM1)","",Item
+en2885,"Uterine yang deficiency pattern (TM1)","",Item
+en2886,"Blood and heat build up in the bladder pattern (TM1)","",Item
+en2887,"Bladder heat retention pattern (TM1)","",Item
+en2888,"Bladder heat excess pattern (TM)","",Item
+en2889,"Water amassment in the bladder pattern (TM1)","",Item
+en2890,"Heart ruler meridian pattern (TM)","",Item
+en2891,"Heart governor meridian pattern (TM)","",Item
+en2892,"Triple burner meridian pattern (TM1)","",Item
+en2893,"Triple warmer meridian pattern (TM1)","",Item
+en2894,"Shanghan Patterns (TM1)","",Item
+en2895,"Taiyang patterns (TM1)","",Item
+en2896,"Greater yang pattern (TM1)","",Item
+en2897,"Yangming patterns (TM1)","",Item
+en2898,"Yang brightness pattern (TM1)","",Item
+en2899,"Shaoyang patterns (TM1)","",Item
+en2900,"Lesser yang pattern (TM1)","",Item
+en2901,"Taiyin patterns (TM1)","",Item
+en2902,"Greater yin pattern (TM1)","",Item
+en2903,"Shaoyin Patterns (TM1)","",Item
+en2904,"Lesser yin pattern (TM1)","",Item
+en2905,"Jueyin patterns (TM1)","",Item
+en2906,"Reverting yin pattern (TM1)","",Item
+en2907,"Wenbing Sanjiao Patterns (TM1)","",Item
+en2908,"Triple Energizer Patterns(TM1)","",Item
+en2909,"Triple Burner Patterns(TM1)","",Item
+en2910,"Three Region Patterns(TM1)","",Item
+en2911,"Upper energizer patterns (TM1)","",Item
+en2912,"Upper Burner Patterns (TM1)","",Item
+en2913,"Upper Region Patterns (TM1)","",Item
+en2914,"Middle energizer patterns (TM1)","",Item
+en2915,"Middle burner patterns (TM1)","",Item
+en2916,"Middle region patterns (TM1)","",Item
+en2917,"Lower burner patterns (TM1)","",Item
+en2918,"Lower region patterns (TM1)","",Item
+en2919,"Wenbing Aspect Patterns (TM1)","",Item
+en2920,"Wei aspect patterns (TM1)","",Item
+en2921,"Warm attacking the lung defense pattern (TM1)","",Item
+en2922,"Qi aspect patterns (TM1)","",Item
+en2923,"Ying aspect patterns (TM1)","",Item
+en2924,"Xue aspect patterns (TM1)","",Item
+en2925,"Blood and heat pattern (TM)","",Item
+en2926,"Interior harassing pattern (TM)","",Item
+en2927,"Excess heat in the blood aspect pattern (TM)","",Item
+en2928,"Sasang Constitution Medicine Patterns (TM1)","",Item
+en2929,"Taeyang Type Constitution Patterns (TM1)","",Item
+en2930,"TY Type Constitution Patterns (TM1)","",Item
+en2931,"Taeyang type exterior pattern (TM1)","",Item
+en2932,"TY type exterior pattern (TM1)","",Item
+en2933,"Type I constitution patterns (TM1) of the exterior","",Item
+en2934,"Soyang Type Constitution Patterns (TM1)","",Item
+en2935,"SY Type Constitution Patterns (TM1)","",Item
+en2936,"Taeeum Type Constitution Patterns (TM1)","",Item
+en2937,"TE Type Constitution Patterns (TM1)","",Item
+en2938,"Soeum type constitution patterns (TM)","",Item
+en2939,"SE type constitution patterns (TM)","",Item
+en2940,"Learning and applying knowledge","",Item
+en2941,"Communication","",Item
+en2942,"Major life areas","",Item
+en2943,"Community, social and civic life","",Item
+en2944,"Mental functions","VB00-VB02",Item
+en2945,"Sensory functions and pain","VB10-VB10",Item
+en2946,"Complete","",Item
+en2947,"Hospital-acquired","",Item
+en2948,"Pleuro-pneumonia-like-organism [PPLO]","",Item
+en2949,"Oncovirus","",Item
+en2950,"Thymus?gland","",Item
+en2951,"Cervical cord","",Item
+en2952,"Thoracic cord","",Item
+en2953,"Lumbar cord","",Item
+en2954,"Sacral cord","",Item
+en2955,"deep sylvian vein","",Item
+en2956,"superior thalamostriate vein","",Item
+en2957,"cerebral venous sinus","",Item
+en2958,"highest intercostal vein","",Item
+en2959,"internal thoracic vein","",Item
+en2960,"transverse scapular vein","",Item
+en2961,"hemorrhoidal vein","",Item
+en2962,"middle hemorrhoidal vein","",Item
+en2963,"inferior hemorrhoidal vein","",Item
+en2964,"coronary vein","",Item
+en2965,"pyloric vein","",Item
+en2966,"hypogastric vein","",Item
+en2967,"median cubital vein","",Item
+en2968,"palmar digital vein","",Item
+en2969,"Mucosa of upper lip","",Item
+en2970,"Mucosa of lower lip","",Item
+en2971,"Anterior tongue","",Item
+en2972,"Submandibular salivary gland","",Item
+en2973,"Left submaxillary salivary gland","",Item
+en2974,"Right submaxillary salivary gland","",Item
+en2975,"Sublingual salivary gland","",Item
+en2976,"Acinar adenoma","",Item
+en2977,"Acinic cell adenoma","",Item
+en2978,"Acinar adenocarcinoma","",Item
+en2979,"Acinar carcinoma","",Item
+en2980,"Acinic cell adenocarcinoma","",Item
+en2981,"Familial polyposis coli","",Item
+en2982,"Adenomatosis, NOS","",Item
+en2983,"Mucoid cell adenoma","",Item
+en2984,"Cholangioma","",Item
+en2985,"Clear cell cystadenofibroma","",Item
+en2986,"Reninoma","",Item
+en2987,"Adenolipoma","",Item
+en2988,"Hepatoma, benign","",Item
+en2989,"Hepatocellular adenoma","",Item
+en2990,"Colloid adenoma","",Item
+en2991,"Oncocytic adenoma","",Item
+en2992,"Oncocytoma","",Item
+en2993,"Tubulo-papillary adenoma","",Item
+en2994,"Traditional serrated adenoma","",Item
+en2995,"Carcinoma in situ in adenomatous polyp","",Item
+en2996,"Adenocarcinoma in situ in tubular adenoma","",Item
+en2997,"Adenocarcinoma in situ in polypoid adenoma","",Item
+en2998,"Carcinoma in situ in a polyp, NOS","",Item
+en2999,"Adenocarcinoma in situ in a polyp, NOS","",Item
+en3000,"Ductal carcinoma in situ, cribriform type","",Item
+en3001,"Atypical hyperplasia of the endometrium","",Item
+en3002,"Eosinophil adenocarcinoma","",Item
+en3003,"Acidophil adenocarcinoma","",Item
+en3004,"Eosinophil carcinoma","",Item
+en3005,"Adenocarcinoma in tubular adenoma","",Item
+en3006,"Adenocarcinoma in polypoid adenoma","",Item
+en3007,"Carcinoma in adenomatous polyp","",Item
+en3008,"Adenocarcinoma in a polyp, NOS","",Item
+en3009,"Carcinoma in a polyp, NOS","",Item
+en3010,"Adenocarcinoma of anal ducts","",Item
+en3011,"Adenocarcinoma combined with other types of carcinoma","",Item
+en3012,"Adenocarcinoma, cribriform comedo-type","",Item
+en3013,"EC cell carcinoid","",Item
+en3014,"Serotonin producing carcinoid","",Item
+en3015,"Argentaffinoma, malignant","",Item
+en3016,"Adenocarcinoma, cylindroid","",Item
+en3017,"Adenocystic carcinoma","",Item
+en3018,"Cylindroma, NOS","",Item
+en3019,"Bronchiolar carcinoma","",Item
+en3020,"Bronchiolar adenocarcinoma","",Item
+en3021,"Alveolar cell carcinoma","",Item
+en3022,"Bronchiolo-alveolar carcinoma, NOS","",Item
+en3023,"Bronchiolo-alveolar adenocarcinoma, NOS","",Item
+en3024,"Alveolar carcinoma","",Item
+en3025,"Adrenal cortical adenocarcinoma","",Item
+en3026,"Mucoid cell adenocarcinoma","",Item
+en3027,"Basophil adenocarcinoma","",Item
+en3028,"Bile duct adenocarcinoma","",Item
+en3029,"Bile duct carcinoma","",Item
+en3030,"Chromophobe adenocarcinoma","",Item
+en3031,"Clear cell cystadenocarcinofibroma","",Item
+en3032,"Bellini duct carcinoma","",Item
+en3033,"Renal carcinoma, collecting duct type","",Item
+en3034,"Hepatocholangiocarcinoma","",Item
+en3035,"Mixed hepatocellular and bile duct carcinoma","",Item
+en3036,"Glycogen-rich clear cell carcinoma","",Item
+en3037,"Mucinous carcinoid","",Item
+en3038,"Granular cell adenocarcinoma","",Item
+en3039,"C cell carcinoma","",Item
+en3040,"Parafollicular cell carcinoma","",Item
+en3041,"Primary cutaneous neuroendocrine carcinoma","",Item
+en3042,"Combined carcinoid and adenocarcinoma","",Item
+en3043,"Composite carcinoid","",Item
+en3044,"Combined/mixed carcinoid and adenocarcinoma","",Item
+en3045,"MANEC","",Item
+en3046,"Mixed carcinoid-adenocarcinoma","",Item
+en3047,"Nonencapsulated sclerosing adenocarcinoma","",Item
+en3048,"Oncocytic adenocarcinoma","",Item
+en3049,"Oncocytic carcinoma","",Item
+en3050,"Adenocarcinoma, pancreatobiliary type","",Item
+en3051,"Tubulopapillary adenocarcinoma","",Item
+en3052,"Parietal cell adenocarcinoma","",Item
+en3053,"Carcinoma with productive fibrosis","",Item
+en3054,"Scirrhous carcinoma","",Item
+en3055,"Solid adenocarcinoma with mucin formation","",Item
+en3056,"Trabecular carcinoma","",Item
+en3057,"Tubular carcinoma","",Item
+en3058,"Water-clear cell carcinoma","",Item
+en3059,"Bronchial adenoma, NOS","",Item
+en3060,"Clear cell borderline tumour","",Item
+en3061,"Clear cell tumour, atypical proliferative","",Item
+en3062,"Clear cell cystadenofibroma of borderline malignancy","",Item
+en3063,"Endocrine adenomatosis","",Item
+en3064,"Apocrine cystadenoma","",Item
+en3065,"Spiradenoma, NOS","",Item
+en3066,"Fibrofolliculoma","",Item
+en3067,"Perifollicular fibroma","",Item
+en3068,"Trichodiscoma","",Item
+en3069,"Eccrine cystadenoma","",Item
+en3070,"Hidradenoma papilliferum","",Item
+en3071,"Syringocystadenoma papilliferum","",Item
+en3072,"Papillary syringocystadenoma","",Item
+en3073,"Syringadenoma, NOS","",Item
+en3074,"Hidradenoma, NOS","",Item
+en3075,"Infiltrating syringomatous adenoma of nipple","",Item
+en3076,"Syringomatous adenoma of nipple","",Item
+en3077,"Microcystic adnexal carcinoma","",Item
+en3078,"Syringomatous carcinoma","",Item
+en3079,"Adnexal carcinoma","",Item
+en3080,"Sweat gland carcinoma","",Item
+en3081,"Sebaceous carcinoma","",Item
+en3082,"Ceruminous carcinoma","",Item
+en3083,"Epithelioma adenoides cysticum","",Item
+en3084,"Proliferating trichilemmal cyst","",Item
+en3085,"Mixed basal-squamous cell carcinoma","",Item
+en3086,"Multicentric basal cell carcinoma","",Item
+en3087,"Trichilemmal carcinoma","",Item
+en3088,"Matrical carcinoma","",Item
+en3089,"Pilomatricoma, malignant","",Item
+en3090,"Pilomatrixoma, malignant","",Item
+en3091,"Plexiform hemangioma","",Item
+en3092,"Juvenile hemangioma","",Item
+en3093,"Hemangioma simplex","",Item
+en3094,"Infantile hemangioma","",Item
+en3095,"Histiocytoid hemangioma","",Item
+en3096,"Intramuscular angioma","",Item
+en3097,"Arteriovenous hemangioma","",Item
+en3098,"Angiosarcoma","",Item
+en3099,"Papillary intralymphatic angioendomethelioma","",Item
+en3100,"Spindle cell angioendothelioma","",Item
+en3101,"Angioblastoma","",Item
+en3102,"Papillary cystadenoma lymphomatosum","",Item
+en3103,"Adenoacanthoma","",Item
+en3104,"Mixed adenocarcinoma and epidermoid carcinoma","",Item
+en3105,"Mixed adenocarcinoma and squamous cell carcinoma","",Item
+en3106,"Adenocarcinoma with cartilaginous metaplasia","",Item
+en3107,"Adenocarcinoma with osseous metaplasia","",Item
+en3108,"Carcinoma with apocrine metaplasia","",Item
+en3109,"Carcinoma with neuroendocrine differentiation","",Item
+en3110,"Hepatoid carcinoma","",Item
+en3111,"Mixed tumour, NOS","",Item
+en3112,"Mixed tumour, salivary gland type, NOS","",Item
+en3113,"Renomedullary fibroma","",Item
+en3114,"Myoepithelial adenoma","",Item
+en3115,"GIST, malignant","",Item
+en3116,"Embryonal hepatoma","",Item
+en3117,"Malignant multilocular cystic nephroma","",Item
+en3118,"Rhabdoid sarcoma","",Item
+en3119,"Pneumoblastoma","",Item
+en3120,"Malignant adenomyoepithelioma","",Item
+en3121,"Infiltrating myoepithelioma","",Item
+en3122,"Myoepithelial carcinoma","",Item
+en3123,"GANT","",Item
+en3124,"Intraductal papillary-mucinous neoplasm with low grade dysplasia","",Item
+en3125,"Intraductal papillary-mucinous neoplasm with moderate dysplasia","",Item
+en3126,"Mucinous cystic neoplasm with high-grade dysplasia","",Item
+en3127,"Mucinous cystic neoplasm with high-grade intraepithelial neoplasia","",Item
+en3128,"Papillary pseudomucinous cystadenocarcinoma","",Item
+en3129,"Papillary serous adenocarcinoma","",Item
+en3130,"Mucinous cystic neoplasm with an associated invasive carcinoma","",Item
+en3131,"Mucous carcinoma","",Item
+en3132,"Mucous adenocarcinoma","",Item
+en3133,"Mucoid adenocarcinoma","",Item
+en3134,"Mucoid carcinoma","",Item
+en3135,"Mucinous carcinoma","",Item
+en3136,"Mucin-secreting carcinoma","",Item
+en3137,"Mucin-secreting adenocarcinoma","",Item
+en3138,"Mucin-producing carcinoma","",Item
+en3139,"Signet ring cell adenocarcinoma","",Item
+en3140,"Mucinous borderline tumour","",Item
+en3141,"Mucinous cystadenoma, borderline malignancy","",Item
+en3142,"Pseudomucinous cystadenoma, borderline malignancy","",Item
+en3143,"Seromucinous tumour, atypical proliferative","",Item
+en3144,"Papillary serous cystadenoma, borderline malignancy","",Item
+en3145,"Solid and papillary epithelial neoplasm","",Item
+en3146,"Duct adenoma, NOS","",Item
+en3147,"Ductal papilloma","",Item
+en3148,"Subareolar duct papillomatosis","",Item
+en3149,"Intracystic papilloma","",Item
+en3150,"Intraductal papillary neoplasm with high grade dysplasia","",Item
+en3151,"Intracystic papillary neoplasm with high grade intraepithelial neoplasia","",Item
+en3152,"DCIS, papillary","",Item
+en3153,"Ductal carcinoma in situ, papillary","",Item
+en3154,"Noninfiltrating intraductal papillary carcinoma","",Item
+en3155,"Intraductal papillary carcinoma, NOS","",Item
+en3156,"Intraductal papillary adenocarcinoma, NOS","",Item
+en3157,"Noninfiltrating intracystic carcinoma","",Item
+en3158,"Encysted papillary carcinoma","",Item
+en3159,"Intracystic papillary carcinoma","",Item
+en3160,"Intracystic carcinoma, NOS","",Item
+en3161,"Intracystic papillary adenocarcinoma","",Item
+en3162,"Ductal carcinoma in situ, micropapillary","",Item
+en3163,"LCIS, pleomorphic","",Item
+en3164,"Juvenile carcinoma of breast","",Item
+en3165,"Infiltrating papillary adenocarcinoma","",Item
+en3166,"Infiltrating and papillary adenocarcinoma","",Item
+en3167,"Intracystic papillary neoplasm with associated invasive carcinoma","",Item
+en3168,"Encysted papillary carcinoma with invasion","",Item
+en3169,"Intracystic papillary carcinoma with invasion","",Item
+en3170,"Micropapillary carcinoma of breast","",Item
+en3171,"Lobular and ductal carcinoma","",Item
+en3172,"Terminal duct adenocarcinoma","",Item
+en3173,"Inflammatory adenocarcinoma","",Item
+en3174,"Sarcomatoid carcinoma","",Item
+en3175,"NUT midline carcinoma","",Item
+en3176,"NUT carcinoma","",Item
+en3177,"Small cell carcinoma, pulmonary type","",Item
+en3178,"Mixed small cell carcinoma","",Item
+en3179,"Malignant mucinous adenofibroma","",Item
+en3180,"Malignant serous adenofibroma","",Item
+en3181,"Malignant serous cystadenofibroma","",Item
+en3182,"Malignant mucinous cystadenofibroma","",Item
+en3183,"Fibroxanthoma, NOS","",Item
+en3184,"Xanthofibroma","",Item
+en3185,"Fibrous histiocytoma, NOS","",Item
+en3186,"Myxoid fibroma","",Item
+en3187,"Myxofibroma, NOS","",Item
+en3188,"Deep benign fibrous histiocytoma","",Item
+en3189,"Congenital fibrosarcoma","",Item
+en3190,"Fibroxanthoma, malignant","",Item
+en3191,"Undifferentiated high grade pleomorphic sarcoma","",Item
+en3192,"Abdominal desmoid","",Item
+en3193,"Mesenteric fibromatosis","",Item
+en3194,"Retroperitoneal fibromatosis","",Item
+en3195,"Invasive fibroma","",Item
+en3196,"Extra-abdominal desmoid","",Item
+en3197,"Desmoid tumour, NOS","",Item
+en3198,"Desmoid, NOS","",Item
+en3199,"Desmoid-type fibromatosis","",Item
+en3200,"Atypical fibroxanthoma","",Item
+en3201,"Infantile myofibromatosis","",Item
+en3202,"Germ cell neoplasia in situ","",Item
+en3203,"Intratubular germ cell neoplasia","",Item
+en3204,"Embryonal carcinoma, polyembryonal type","",Item
+en3205,"Spermatocytic tumour","",Item
+en3206,"Spermatocytoma","",Item
+en3207,"Mixed embryonal carcinoma and teratoma","",Item
+en3208,"Orchioblastoma","",Item
+en3209,"Embryonal carcinoma, infantile","",Item
+en3210,"Dermoid cyst with malignant transformation","",Item
+en3211,"Teratoma with somatic-type malignancies","",Item
+en3212,"Gonocytoma","",Item
+en3213,"Struma ovarii and carcinoid","",Item
+en3214,"Choroid plexus papilloma, malignant","",Item
+en3215,"Choroid plexus papilloma, anaplastic","",Item
+en3216,"Fibrous astrocytoma","",Item
+en3217,"Gemistocytoma","",Item
+en3218,"Gemistrocytc astrocytoma, IDH mutant","",Item
+en3219,"Glioblastoma with sarcomatous component","",Item
+en3220,"Anaplastic oligoastrocytoma","",Item
+en3221,"Oligoastrocytoma","",Item
+en3222,"Spongioblastoma polare","",Item
+en3223,"Primitive polar spongioblastoma","",Item
+en3224,"CNS Embryonal tumour, NOS","",Item
+en3225,"Monstrocellular sarcoma","",Item
+en3226,"Desmoplastic medulloblastoma","",Item
+en3227,"Circumscribed arachnoidal cerebellar sarcoma","",Item
+en3228,"Subependymal glioma","",Item
+en3229,"Subependymal astrocytoma, NOS","",Item
+en3230,"Myxolipoma","",Item
+en3231,"Fetal fat cell lipoma","",Item
+en3232,"Fetal lipoma, NOS","",Item
+en3233,"Fetal lipomatosis","",Item
+en3234,"Lipoblastoma","",Item
+en3235,"Myxoliposarcoma","",Item
+en3236,"Round cell liposarcoma","",Item
+en3237,"Atypical lipoma","",Item
+en3238,"Cystic hygroma","",Item
+en3239,"Hygroma, NOS","",Item
+en3240,"Lymphangioendothelioma, malignant","",Item
+en3241,"Lymphangioendothelial sarcoma","",Item
+en3242,"Lymphangioleiomyomatosis","",Item
+en3243,"Fibroblastic meningioma","",Item
+en3244,"Syncytial meningioma","",Item
+en3245,"Endotheliomatous meningioma","",Item
+en3246,"Angioblastic meningioma","",Item
+en3247,"Mixed meningioma","",Item
+en3248,"Fibro-osteoma","",Item
+en3249,"Osteofibroma","",Item
+en3250,"Tibial adamantinoma","",Item
+en3251,"Melanotic progonoma","",Item
+en3252,"Melanoameloblastoma","",Item
+en3253,"Mixed pineocytoma-pineoblastoma","",Item
+en3254,"Ewing sarcoma","",Item
+en3255,"Vascular leiomyoma","",Item
+en3256,"Angioleiomyoma","",Item
+en3257,"Atypical leiomyoma","",Item
+en3258,"Pleomorphic leiomyoma","",Item
+en3259,"Symplastic leiomyoma","",Item
+en3260,"Leiomyoblastoma","",Item
+en3261,"Adult cellular rhabdomyoma","",Item
+en3262,"Botryoid sarcoma","",Item
+en3263,"Rhabdomyosarcoma, spindle cell/sclerosing type","",Item
+en3264,"Sclerosing rhabdomyosarcoma","",Item
+en3265,"Ectomesenchymoma","",Item
+en3266,"Intravenous leiomyomatosis","",Item
+en3267,"Aggressive angiomyxoma","",Item
+en3268,"Plexiform neuroma","",Item
+en3269,"Nerve sheath myxoma","",Item
+en3270,"Neurosarcoma","",Item
+en3271,"Neurogenic sarcoma","",Item
+en3272,"Neurofibrosarcoma","",Item
+en3273,"MPNST, NOS","",Item
+en3274,"MPNST with rhabdomyoblastic differentiation","",Item
+en3275,"Malignant schwannoma with rhabdomyoblastic differentiation","",Item
+en3276,"Esthesioneurocytoma","",Item
+en3277,"Esthesioneuroepithelioma","",Item
+en3278,"Esthesioneuroblastoma","",Item
+en3279,"Neurocytoma","",Item
+en3280,"Neurolipocytoma","",Item
+en3281,"Medullocytoma","",Item
+en3282,"Lipomatous medulloblastoma","",Item
+en3283,"Dermal and epidermal nevus","",Item
+en3284,"Juvenile melanoma","",Item
+en3285,"Juvenile nevus","",Item
+en3286,"Spitz nevus","",Item
+en3287,"Regressing nevus","",Item
+en3288,"Dermal nevus","",Item
+en3289,"Melanocytoma, eyeball","",Item
+en3290,"Achromic nevus","",Item
+en3291,"Hutchinson melanotic freckle, NOS","",Item
+en3292,"Malignant melanoma in Hutchinson melanotic freckle","",Item
+en3293,"Malignant melanoma in congenital melanocytic nevus","",Item
+en3294,"Adenoameloblastoma","",Item
+en3295,"Fibroameloblastic odontoma","",Item
+en3296,"Dentinoma","",Item
+en3297,"Odontogenic fibroma, NOS","",Item
+en3298,"Florid osseous dysplasia","",Item
+en3299,"Odontogenic myxofibroma","",Item
+en3300,"Ameloblastic fibrodentinosarcoma","",Item
+en3301,"Ameloblastic fibro-odontosarcoma","",Item
+en3302,"Ameloblastic sarcoma","",Item
+en3303,"Odontogenic fibrosarcoma","",Item
+en3304,"Osteocartilaginous exostosis","",Item
+en3305,"Ecchondroma","",Item
+en3306,"Cartilaginous exostosis","",Item
+en3307,"Medullary osteosarcoma","",Item
+en3308,"Conventional central osteosarcoma","",Item
+en3309,"Osteofibrosarcoma","",Item
+en3310,"Intraosseous low grade osteosarcoma","",Item
+en3311,"Secondary osteosarcoma","",Item
+en3312,"Juxtacortical osteosarcoma","",Item
+en3313,"Round cell osteosarcoma","",Item
+en3314,"Chondrosarcoma, grade 1","",Item
+en3315,"Glomoid sarcoma","",Item
+en3316,"Aortic body paraganglioma","",Item
+en3317,"Aorticopulmonary paraganglioma","",Item
+en3318,"Carotid body paraganglioma","",Item
+en3319,"Undiffentiated spindle cell sarcoma","",Item
+en3320,"Undifferentiated pleomorphic cell sarcoma","",Item
+en3321,"Pleomorphic cell sarcoma","",Item
+en3322,"Round cell sarcoma","",Item
+en3323,"Undifferentiated round cell sarcoma","",Item
+en3324,"Epithelioid cell sarcoma","",Item
+en3325,"Folliculome lipidique","",Item
+en3326,"Tubular androblastoma with lipid storage","",Item
+en3327,"Theca cell-granulosa cell tumour","",Item
+en3328,"Sertoli-Leydig cell tumour, moderately differentiated","",Item
+en3329,"Papillomatosis, NOS","",Item
+en3330,"Intraepidermal squamous cell carcinoma, Bowen type","",Item
+en3331,"Epidermoid carcinoma in situ with questionable stromal invasion","",Item
+en3332,"Papillary epidermoid carcinoma","",Item
+en3333,"Condylomatous carcinoma","",Item
+en3334,"Lymphoepithelioma-like carcinoma","",Item
+en3335,"Lymphoepithelioma","",Item
+en3336,"SETTLE","",Item
+en3337,"Carcinoma showing thymus-like differentiation","",Item
+en3338,"CASTLE","",Item
+en3339,"Urothelial carcinoma in situ","",Item
+en3340,"Papillary urothelial carcinoma","",Item
+en3341,"Papillary urothelial neoplasm of low malignant potential","",Item
+en3342,"Choriocarcinoma combined with embryonal carcinoma","",Item
+en3343,"Choriocarcinoma combined with teratoma","",Item
+en3344,"Malignant hydatidiform mole","",Item
+en3345,"Chorioadenoma destruens","",Item
+en3346,"Chorioadenoma","",Item
+en3347,"Invasive mole, NOS","",Item
+en3348,"RARS","",Item
+en3349,"RAEB II","",Item
+en3350,"RAEB I","",Item
+en3351,"RAEB","",Item
+en3352,"RAEB-T","",Item
+en3353,"Refractory cytopenia of childhood","",Item
+en3354,"Myelodysplastic syndrome with isolated del (5q)","",Item
+en3355,"Proliferative polycythemia","",Item
+en3356,"Polycythemia rubra vera","",Item
+en3357,"Chronic erythremia","",Item
+en3358,"Myelosclerosis with myeloid metaplasia","",Item
+en3359,"Myelofibrosis with myeloid metaplasia","",Item
+en3360,"Myelofibrosis as a result of myeloproliferative disease","",Item
+en3361,"Megakaryocytic myelosclerosis","",Item
+en3362,"Chronic idiopathic myelofibrosis","",Item
+en3363,"Agnogenic myeloid metaplasia","",Item
+en3364,"Idiopathic thrombocythemia","",Item
+en3365,"Subacute lymphocytic Leukaemia","",Item
+en3366,"Subacute lymphatic Leukaemia","",Item
+en3367,"B-ALL","",Item
+en3368,"FAB L3","",Item
+en3369,"Adult T-cell lymphoma","",Item
+en3370,"T-cell large granular lymphocytosis","",Item
+en3371,"Large granular lymphocytosis, NOS","",Item
+en3372,"Pro-B ALL","",Item
+en3373,"Pre-B ALL","",Item
+en3374,"Pre-pre-B ALL","",Item
+en3375,"Common precursor B ALL","",Item
+en3376,"Common ALL","",Item
+en3377,"c-ALL","",Item
+en3378,"Pro-T ALL","",Item
+en3379,"Pre-T ALL","",Item
+en3380,"Cortical T ALL","",Item
+en3381,"Mature T ALL","",Item
+en3382,"FAB M4","",Item
+en3383,"FAB M4Eo","",Item
+en3384,"FAB M1","",Item
+en3385,"FAB M2, NOS","",Item
+en3386,"FAB M5","",Item
+en3387,"FAB M7","",Item
+en3388,"Granulocytic sarcoma","",Item
+en3389,"Chloroma","",Item
+en3390,"Acute myelosclerosis, NOS","",Item
+en3391,"Acute panmyelosis, NOS","",Item
+en3392,"Acute myelofibrosis","",Item
+en3393,"Malignant myelosclerosis","",Item
+en3394,"Leukemic reticuloendotheliosis","",Item
+en3395,"Franklin disease","",Item
+en3396,"Mediterranean lymphoma","",Item
+en3397,"Monoclonal gammopathy, NOS","",Item
+en3398,"MGUS","",Item
+en3399,"Immunoblastic lymphadenopathy (IBL)","",Item
+en3400,"Systemic light chain disease","",Item
+en3401,"Malignant mastocytoma","",Item
+en3402,"Systemic tissue mast cell disease","",Item
+en3403,"Extracutaneous mastocytoma","",Item
+en3404,"Solitary mastocytoma of skin","",Item
+en3405,"Interdigitating cell sarcoma","",Item
+en3406,"partial articular fractures","",Item
+en3407,"Exposure to lightning","",Item
+en3408,"Heating, whole body from natural source","",Item
+en3409,"Exposure to other specified radiation","",Item
+en3410,"travelling not elsewhere classified","",Item
+en3411,"travelling not elsewhere classified","",Item
+en3412,"travelling not elsewhere classified","",Item
+en3413,"travelling not elsewhere classified","",Item
+en3414,"school or university","",Item
+en3415,"other specified residential institution area","",Item
+en3416,"other specified residential institution area","",Item
+en3417,"sports and athletics area at school, educational area","",Item
+en3418,"other specified transport area","",Item
+en3419,"other specified industrial or construction area","",Item
+en3420,"Other specified place of occurrence","",Item
+en3421,"playground at school, educational area","",Item
+en3422,"other specified industrial or construction area","",Item
+en3423,"Other specified place of occurrence","",Item
+en3424,"Includes vehicles with one wheel at the rear and two closely-spaced steerable wheels at the front and motorised tricycles (one wheel at the front) if registered as motor-cycles.","",Item
+en3425,"mode of transport, bus or coach","",Item
+en3426,"Other specified mode of transport of person injured in transport related event","",Item
+en3427,"mode of transport, space craft","",Item

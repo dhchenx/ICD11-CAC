@@ -1,0 +1,5 @@
+Match(e1:Entity{code:'1A03'})<-[:IS_A*1..5]-(e2:Entity{code:'1A03.1'})-[:HAS_SENSE]->(s:Sense{name:'infection.n.4'})-[:HAS_SYNONYM]->(w:Word)return e1,e2,s,w;
+
+Match(e:Entity)-[:HAS_SYNONYM*1..5]->(w:Word) with {item:id(e),categories:collect(id(w))} as userData with collect(userData) as data call algo.similarity.jaccard.stream(data) yield item1,item2,count1,count2,intersection,similarity return algo.getNodeById(item1).name as from, algo.getNodeById(item2).name as to,intersection, similarity order by similarity desc;
+
+Match(e:Chapter_1)-[*1..5]->(w:Word) with {item:id(e),categories:collect(id(w))} as userData with collect(userData) as data call algo.similarity.jaccard.stream(data) yield item1,item2,count1,count2,intersection,similarity return algo.getNodeById(item1).name as from, algo.getNodeById(item2).name as to,intersection, similarity order by similarity desc;
