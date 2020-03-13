@@ -35,7 +35,6 @@ We leverage semantics in WordNet, an English semantic dictionary, to facilitate 
 <p>
 [1] D. Chen, R. Zhang, and R. G. Qiu, "Leveraging semantics in WordNet to facilitate the computer-assisted coding of ICD-11," IEEE Journal of Biomedical and Health Informatics, Oct. 2019, Early Access.
 </p>
-<p>[2] D. Chen, R. Zhang, H. Zhao, and J. Feng. "A Bibliometric Analysis of the Development of ICD-11 in Medical Informatics," Journal of Healthcare Engineering, 2019, vol. 2019, Art. no. 1649363.</p>
 
 ## Risk
 Since the research is of theory, please be responsible for any risk on using the data and algorithms in actual medical coding. 
