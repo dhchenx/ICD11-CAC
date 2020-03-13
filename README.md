@@ -1,7 +1,7 @@
 # Computer-assisted coding of ICD-11
 This project hosts my research on studying computer-assisted ICD-11 coding systems. It includes relevant datasets we used, references, publicly available source codes and tools.
 
-We aim to faciliate computer-assisted coding of ICD-11 with the use of text semantics. 
+We aim to facilitate computer-assisted coding of ICD-11 with the use of text semantics. <a href='#ref'>Cite this?</a>
 
 ## ICD-11 graph databases
 1. English version of ICD-11 graph
@@ -31,6 +31,7 @@ Note: This coding tool based on API 1.0 is kinda out-of-date since WHO released 
 ## Computer-assisted ICD-11 coding using text semantics 
 We leverage semantics in WordNet, an English semantic dictionary, to facilitate computer-assisted coding of ICD-11.
 
+<a name='ref'></a>
 ## Publications
 <p>
 [1] D. Chen, R. Zhang, and R. G. Qiu, "Leveraging semantics in WordNet to facilitate the computer-assisted coding of ICD-11," IEEE Journal of Biomedical and Health Informatics, Oct. 2019, Early Access.
@@ -39,7 +40,7 @@ We leverage semantics in WordNet, an English semantic dictionary, to facilitate 
 ## Risk
 Since the research is of theory, please be responsible for any risk on using the data and algorithms in actual medical coding. 
 
-## Contributors
+## Credits
 <a href='https://icd.who.int/ct11/icd11_mms/en/release'>WHO's ICD-11 Online Coding Tool</a><br/>
 <a href='https://icd.who.int/en'>ICD-11 Home Page</a><br/>
 <a href='https://icd.who.int/icdapi'>ICD-11 API</a><br/>
